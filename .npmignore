@@ -1,0 +1,8 @@
+
+*.test.js
+src/
+tsconfig.json
+package-lock.json
+.travis.yml
+README.md
+types/scripts/

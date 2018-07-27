@@ -1,0 +1,46 @@
+{
+  "name": "news-sources",
+  "version": "0.1.0",
+  "description": "json news-sources",
+  "main": "./lib/index.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "pretest": "npm run clean && npm run tsc",
+    "test": "ava --no-cache --verbose lib/**/*.test.js",
+    "posttest": "npm run clean-code",
+    "tsc": "tsc",
+    "tscw": "tsc -w",
+    "preversion": "npm run tsc",
+    "postversion": "git push --follow-tags",
+    "prepublishOnly": "npm run tsc && npm run clean-code",
+    "clean": "rimraf ./lib && rimraf ./types",
+    "clean-code": "rimraf ./lib/**/*.test.js && rimraf ./types/**/*.test.d.ts && rimraf ./types/scripts",
+    "validate": "node ./lib/scripts/validate.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ournet/news-sources.git"
+  },
+  "keywords": [
+    "news",
+    "sources",
+    "json",
+    "news-sources"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ournet/news-sources/issues"
+  },
+  "homepage": "https://github.com/ournet/news-sources#readme",
+  "devDependencies": {
+    "@types/node": "^10.5.3",
+    "ajv": "^6.5.2",
+    "ava": "^0.23.0",
+    "rimraf": "^2.6.2",
+    "typescript": "latest"
+  }
+}
