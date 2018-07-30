@@ -16,6 +16,9 @@ export function getCountryFromSourceFileName(filename: string) {
 
 export function readSourcesByCountry(countryCode: string) {
     return new Promise<NewsSource[]>((resolve, reject) => {
+        if (SOURCES_COUNTRIES.indexOf(countryCode) < 0) {
+            return reject(new Error(`Country code=${countryCode} is not supported!`));
+        }
         readFile(formatSourcesFilePath(countryCode), 'utf8', (error, data) => {
             if (error) {
                 return reject(error);

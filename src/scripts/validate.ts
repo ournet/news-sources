@@ -29,6 +29,24 @@ async function validateSources() {
             if (source.country !== countryCode) {
                 throw new Error(`Invalid file ${filename} (country field): ${JSON.stringify(source)}`);
             }
+            sources.forEach(item => {
+                if (item === source) {
+                    return;
+                }
+                if (item.id === source.id) {
+                    throw new Error(`Source id must be unique by country file: ${filename} (${item.id})`);
+                }
+                if (item.url === source.url) {
+                    throw new Error(`Source url must be unique by country file: ${filename} (${item.url})`);
+                }
+                source.feeds.forEach(sourceFeed => {
+                    item.feeds.forEach(itemFeed => {
+                        if (itemFeed.url === sourceFeed.url) {
+                            throw new Error(`Source feed url must be unique: ${filename} (${item.url})`);
+                        }
+                    });
+                });
+            });
         }
     }
 
