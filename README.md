@@ -2,6 +2,20 @@
 
 A repository of news sources for every country. Data is stored in JSON files.
 
+## Node.js usage
+
+```ts
+import { readSources } from 'news-sources'
+const sources = await readSources('ru'); // Russian sources
+```
+
+## Node.js API
+
+### readSources(countryCode: string): Promise<NewsSource[]>
+
+Reads news sources from a JSON file by `countryCode` (2 letters country code).
+Data is not cached.
+
 ## Contributing
 
 Files you can contribute are in `data/sources` directory.
