@@ -5,7 +5,7 @@ import {
     SOURCES_SCHEMA_FILE_PATH,
     SOURCES_FILENAMES,
     getCountryFromSourceFileName,
-    getSourcesByCountryCode,
+    readSourcesByCountry,
 } from '../data';
 
 console.log('Validating sources...');
@@ -20,7 +20,7 @@ async function validateSources() {
     ajv.addSchema(schema, 'sources');
     for (const filename of SOURCES_FILENAMES) {
         const countryCode = getCountryFromSourceFileName(filename);
-        const sources = await getSourcesByCountryCode(countryCode);
+        const sources = await readSourcesByCountry(countryCode);
         const valid = ajv.validate('sources', sources);
         if (!valid) {
             throw new Error(`Invalid file ${filename}: ${JSON.stringify(ajv.errors)}`);
