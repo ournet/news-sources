@@ -16,6 +16,11 @@ const sources = await readSources('ru'); // Russian sources
 Reads news sources from a JSON file by `countryCode` (2 letters country code).
 Data is not cached.
 
+## Current countries
+
+- `md` - Moldova
+- `ro` - Romania
+
 ## Contributing
 
 Files you can contribute are in `data/sources` directory.
