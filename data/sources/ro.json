@@ -1,0 +1,602 @@
+[
+  {
+    "id": "a1",
+    "name": "A1",
+    "url": "http://a1.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://a1.ro/rss/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "adevarul",
+    "name": "Adevarul",
+    "url": "http://adevarul.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://adevarul.ro/rss/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "agerpres",
+    "name": "Agerpres",
+    "url": "http://www.agerpres.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.agerpres.ro/rss/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "antena3",
+    "name": "Antena3",
+    "url": "http://www.antena3.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.antena3.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "business24",
+    "name": "Business24",
+    "url": "http://www.business24.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.business24.ro/rss/12h.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "businessmagazin",
+    "name": "BusinessMagazin",
+    "url": "http://www.businessmagazin.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.businessmagazin.ro/rss-feed.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "bzi",
+    "name": "BZI",
+    "url": "http://www.bzi.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.bzi.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "cancan",
+    "name": "CANCAN",
+    "url": "http://www.cancan.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.cancan.ro/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "capital",
+    "name": "Capital",
+    "url": "http://www.capital.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.capital.ro/rss/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "catavencii",
+    "name": "Cațavencii",
+    "url": "http://www.catavencii.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.catavencii.ro/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "cotidianul",
+    "name": "Cotidianul",
+    "url": "http://www.cotidianul.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.cotidianul.ro/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "dcnews",
+    "name": "DCnews",
+    "url": "http://www.dcnews.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.dcnews.ro/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "dilemaveche",
+    "name": "DilemaVeche",
+    "url": "http://dilemaveche.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://dilemaveche.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "eazi",
+    "name": "eAzi",
+    "url": "http://eazi.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://eazi.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "euractiv",
+    "name": "Euractiv",
+    "url": "http://www.euractiv.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.euractiv.ro/rss.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "evz",
+    "name": "Evz.ro",
+    "url": "http://evz.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://evz.ro/rss.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "green-report",
+    "name": "Green-report",
+    "url": "http://www.green-report.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.green-report.ro/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "gsp",
+    "name": "GazetaSporturilor",
+    "url": "http://www.gsp.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.gsp.ro/rss.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "hotnews",
+    "name": "Hotnews",
+    "url": "http://www.hotnews.ro",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.hotnews.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "incont",
+    "name": "Încont",
+    "url": "http://incont.stirileprotv.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://incont.stirileprotv.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "jurnalul",
+    "name": "Jurnalul",
+    "url": "http://jurnalul.antena3.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://jurnalul.antena3.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "libertatea",
+    "name": "Libertatea",
+    "url": "http://www.libertatea.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.libertatea.ro/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "observator-tv",
+    "name": "Observator.tv",
+    "url": "http://observator.tv/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://observator.tv/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "mediafax",
+    "name": "Mediafax",
+    "url": "http://www.mediafax.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.mediafax.ro/rss/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "money",
+    "name": "Money",
+    "url": "http://www.money.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.money.ro/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "onlinesport",
+    "name": "Onlinesport",
+    "url": "http://www.onlinesport.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.onlinesport.ro/rss/feed_last.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "paginademedia",
+    "name": "PaginaDeMedia",
+    "url": "http://www.paginademedia.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.paginademedia.ro/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "prosport",
+    "name": "ProSport",
+    "url": "http://www.prosport.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://feeds.feedburner.com/prosport/zWZD",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "puterea",
+    "name": "Puterea",
+    "url": "http://www.puterea.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.puterea.ro/rss/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "realitatea",
+    "name": "Realitatea",
+    "url": "http://www.realitatea.net/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://rss.realitatea.net/stiri.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "rfi",
+    "name": "RFI.ro",
+    "url": "http://www.rfi.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.rfi.ro/rss.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "romania-actualitati",
+    "name": "România-actualități",
+    "url": "http://www.romania-actualitati.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.romania-actualitati.ro/rrapages/rss/2.rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "romanialibera",
+    "name": "RomâniaLiberă",
+    "url": "http://romanialibera.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://romanialibera.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "romaniatv",
+    "name": "RomâniaTV",
+    "url": "http://www.romaniatv.net/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.romaniatv.net/rss/stiri.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "sfin",
+    "name": "SăptămânaFinanciară",
+    "url": "http://www.sfin.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.sfin.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "sport",
+    "name": "Sport.ro",
+    "url": "http://www.sport.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.sport.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "stirileprotv",
+    "name": "ȘtirileProtv",
+    "url": "http://stirileprotv.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://rss.stirileprotv.ro/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "tvr",
+    "name": "TVR.ro",
+    "url": "http://www.tvr.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.tvr.ro/rss/stiri.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "wall-street",
+    "name": "Wall-street.ro",
+    "url": "http://www.wall-street.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "https://img.wall-street.ro/rssfeeds/index.xml",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "zf",
+    "name": "ZF.ro",
+    "url": "http://www.zf.ro/",
+    "country": "ro",
+    "languages": [
+      "ro"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.zf.ro/rss/",
+        "language": "ro"
+      }
+    ]
+  }
+]
