@@ -1,6 +1,6 @@
 [
   {
-    "id": "protv-md",
+    "id": "protv",
     "name": "Protv.md",
     "url": "http://protv.md",
     "country": "md",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "id": "agora-md",
+    "id": "agora",
     "name": "Agora.md",
     "url": "http://agora.md",
     "country": "md",
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "id": "adevarul-md",
+    "id": "adevarul",
     "name": "Adevarul.md",
     "url": "http://adevarul.md",
     "country": "md",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "id": "tv8-md",
+    "id": "tv8",
     "name": "Tv8.md",
     "url": "http://tv8.md",
     "country": "md",
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "id": "abcnews-md",
+    "id": "abcnews",
     "name": "Abcnews.md",
     "url": "http://abcnews.md/",
     "country": "md",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "id": "canal2-md",
+    "id": "canal2",
     "name": "Canal2.md",
     "url": "http://www.canal2.md/",
     "country": "md",
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "id": "canal3-md",
+    "id": "canal3",
     "name": "Canal3.md",
     "url": "http://www.canal3.md/",
     "country": "md",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "id": "curentul-md",
+    "id": "curentul",
     "name": "Curentul.md",
     "url": "http://curentul.md/",
     "country": "md",
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "id": "deschide-md",
+    "id": "deschide",
     "name": "Deschide.md",
     "url": "http://deschide.md/",
     "country": "md",
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "id": "dw-md",
+    "id": "dw",
     "name": "Dw.com",
     "url": "http://www.dw.com/ro/focus/moldova/s-11630",
     "country": "md",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "id": "europalibera-md",
+    "id": "europalibera",
     "name": "Europalibera",
     "url": "http://www.europalibera.org/",
     "country": "md",
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "id": "expresul-md",
+    "id": "expresul",
     "name": "Expresul.md",
     "url": "http://www.expresul.md/",
     "country": "md",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "id": "gov-md",
+    "id": "gov",
     "name": "Gov.md",
     "url": "http://gov.md/",
     "country": "md",
@@ -215,7 +215,7 @@
     ]
   },
   {
-    "id": "independent-md",
+    "id": "independent",
     "name": "Independent.md",
     "url": "http://independent.md/",
     "country": "md",
@@ -230,7 +230,7 @@
     ]
   },
   {
-    "id": "ipn-md",
+    "id": "ipn",
     "name": "IPN.md",
     "url": "http://ipn.md/",
     "country": "md",
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "id": "jurnal-md",
+    "id": "jurnal",
     "name": "Jurnal.md",
     "url": "http://jurnal.md/",
     "country": "md",
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "id": "jurnaltv-md",
+    "id": "jurnaltv",
     "name": "JurnalTV",
     "url": "http://www.jurnaltv.md/",
     "country": "md",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "id": "medianews-md",
+    "id": "medianews",
     "name": "Medianews",
     "url": "http://medianews.md/",
     "country": "md",
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "id": "moldnews-md",
+    "id": "moldnews",
     "name": "Moldnews.md",
     "url": "http://moldnews.md",
     "country": "md",
@@ -320,7 +320,7 @@
     ]
   },
   {
-    "id": "moldova-org",
+    "id": "moldovaorg",
     "name": "Moldova.org",
     "url": "http://www.moldova.org/",
     "country": "md",
@@ -345,7 +345,7 @@
     ]
   },
   {
-    "id": "noi-md",
+    "id": "noi",
     "name": "Noi.md",
     "url": "http://noi.md/",
     "country": "md",
@@ -365,7 +365,7 @@
     ]
   },
   {
-    "id": "observatorul-md",
+    "id": "observatorul",
     "name": "Observatorul",
     "url": "http://observatorul.md/",
     "country": "md",
@@ -381,7 +381,7 @@
     ]
   },
   {
-    "id": "politiacapitalei-md",
+    "id": "politiacapitalei",
     "name": "PolițiaCapitalei",
     "url": "http://politiacapitalei.md/",
     "country": "md",
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "id": "politik-md",
+    "id": "politik",
     "name": "Politik.md",
     "url": "http://politik.md/",
     "country": "md",
@@ -411,7 +411,7 @@
     ]
   },
   {
-    "id": "prime-md",
+    "id": "prime",
     "name": "Prime",
     "url": "http://prime.md/",
     "country": "md",
@@ -431,7 +431,7 @@
     ]
   },
   {
-    "id": "publika-md",
+    "id": "publika",
     "name": "Publika",
     "url": "http://www.publika.md/",
     "country": "md",
@@ -471,7 +471,7 @@
     ]
   },
   {
-    "id": "realitatea-md",
+    "id": "realitatea",
     "name": "Realitatea.md",
     "url": "http://www.realitatea.md/",
     "country": "md",
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "id": "shok-md",
+    "id": "shok",
     "name": "Shok.md",
     "url": "http://shok.md/",
     "country": "md",
@@ -501,7 +501,7 @@
     ]
   },
   {
-    "id": "sputnik-md",
+    "id": "sputnik",
     "name": "Sputnik.md",
     "url": "https://sputnik.md/",
     "country": "md",
@@ -521,7 +521,7 @@
     ]
   },
   {
-    "id": "stirilocale-md",
+    "id": "stirilocale",
     "name": "Știrilocale",
     "url": "http://stirilocale.md/",
     "country": "md",
@@ -536,7 +536,7 @@
     ]
   },
   {
-    "id": "timpul-md",
+    "id": "timpul",
     "name": "Timpul.md",
     "url": "http://www.timpul.md/",
     "country": "md",
@@ -551,7 +551,7 @@
     ]
   },
   {
-    "id": "today-md",
+    "id": "today",
     "name": "Today.md",
     "url": "http://today.md/",
     "country": "md",
@@ -566,7 +566,7 @@
     ]
   },
   {
-    "id": "tribuna-md",
+    "id": "tribuna",
     "name": "Tribuna.md",
     "url": "http://tribuna.md/",
     "country": "md",
@@ -581,7 +581,7 @@
     ]
   },
   {
-    "id": "unimedia-md",
+    "id": "unimedia",
     "name": "Unimedia",
     "url": "http://unimedia.info/",
     "country": "md",
@@ -596,7 +596,7 @@
     ]
   },
   {
-    "id": "zdg-md",
+    "id": "zdg",
     "name": "Zdg.md",
     "url": "http://www.zdg.md/",
     "country": "md",
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "id": "ziarulnational-md",
+    "id": "ziarulnational",
     "name": "ZiarulNațional",
     "url": "http://www.ziarulnational.md/",
     "country": "md",
@@ -626,7 +626,7 @@
     ]
   },
   {
-    "id": "aif-md",
+    "id": "aif",
     "name": "Aif.md",
     "url": "http://aif.md/",
     "country": "md",
@@ -641,7 +641,7 @@
     ]
   },
   {
-    "id": "esp-md",
+    "id": "esp",
     "name": "ESP.md",
     "url": "http://esp.md/",
     "country": "md",
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "id": "golos-md",
+    "id": "golos",
     "name": "Golos.md",
     "url": "http://golos.md/",
     "country": "md",
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "id": "kp-md",
+    "id": "kp",
     "name": "KP.md",
     "url": "http://www.kp.md/",
     "country": "md",
@@ -686,7 +686,7 @@
     ]
   },
   {
-    "id": "press-try-md",
+    "id": "press-try",
     "name": "Press.try.md",
     "url": "http://press.try.md/",
     "country": "md",
@@ -701,7 +701,7 @@
     ]
   },
   {
-    "id": "vedomosti-md",
+    "id": "vedomosti",
     "name": "Vedomosti.md",
     "url": "http://www.vedomosti.md/",
     "country": "md",
@@ -716,7 +716,7 @@
     ]
   },
   {
-    "id": "vesti-md",
+    "id": "vesti",
     "name": "ВЕСТИ.МД",
     "url": "http://www.vesti.md/",
     "country": "md",
