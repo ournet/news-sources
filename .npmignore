@@ -6,3 +6,4 @@ package-lock.json
 .travis.yml
 README.md
 types/scripts/
+lib/scripts/
