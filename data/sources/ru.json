@@ -1,0 +1,584 @@
+[
+  {
+    "id": "vesti",
+    "name": "ВЕСТИ",
+    "url": "http://www.vesti.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.vesti.ru/vesti.rss",
+        "language": "ru"
+      },
+      {
+        "url": "http://www.vesti.ru/export/videos.rss?cid=1",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "cnews.ru",
+    "name": "CNews",
+    "url": "http://www.cnews.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.cnews.ru/inc/rss/news.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "rbc.ru",
+    "name": "РБК",
+    "url": "http://www.rbc.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
+        "language": "ru"
+      },
+      {
+        "url": "http://static.feed.rbc.ru/rbc/logical/footer/sport_newsline.rss",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "rg.ru",
+    "name": "Российская Газета",
+    "url": "http://www.rg.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.rg.ru/xml/index.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "regnum",
+    "name": "REGNUM",
+    "url": "http://regnum.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://regnum.ru/rss/news",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "russia.ru",
+    "name": "RUSSIA.RU",
+    "url": "http://russiaru.net/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://russiaru.net/rss/rss.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "dni",
+    "name": "Дни.ру",
+    "url": "http://dni.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://dni.ru/rss.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "lenta",
+    "name": "Lenta",
+    "url": "http://lenta.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://lenta.ru/rss/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "newsru",
+    "name": "Newsru",
+    "url": "http://newsru.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://rss.newsru.com/all_news/",
+        "language": "ru"
+      },
+      {
+        "url": "https://msk.newsru.com/rss",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "inopressa",
+    "name": "Inopressa",
+    "url": "http://inopressa.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.inopressa.ru/rss/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "gazeta",
+    "name": "Газета",
+    "url": "http://gazeta.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.gazeta.ru/export/rss/lastnews.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "pravda",
+    "name": "Правда",
+    "url": "http://pravda.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.pravda.ru/export.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "flb",
+    "name": "FLB.ru",
+    "url": "http://flb.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://flb.ru/rss/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "polit",
+    "name": "ПОЛИТ.РУ",
+    "url": "http://polit.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://polit.ru/feeds",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "fontanka",
+    "name": "Фонтанка",
+    "url": "http://fontanka.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.fontanka.ru/fontanka.rss",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "5-tv",
+    "name": "Пятый канал",
+    "url": "http://5-tv.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.5-tv.ru/news/rss/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "tvc",
+    "name": "ТВ Центр",
+    "url": "http://tvc.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.tvc.ru/RSS/yandex.aspx",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "bbc",
+    "name": "BBC",
+    "url": "http://www.bbc.com/russian/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://feeds.bbci.co.uk/russian/rss.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "novayagazeta",
+    "name": "Новая Газета",
+    "url": "http://www.novayagazeta.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://content.novayagazeta.ru/rss/all.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "inosmi.ru",
+    "name": "ИноСМИ",
+    "url": "http://inosmi.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://inosmi.ru/export/rss2/index.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "rapsinews.ru",
+    "name": "РАПСИ",
+    "url": "http://rapsinews.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://rapsinews.ru/export/rss2/index.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "glomu.ru",
+    "name": "Glomu.Ru",
+    "url": "http://glomu.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://glomu.ru/feed/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "eg.ru",
+    "name": "EG.RU",
+    "url": "http://eg.ru/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.eg.ru/rss.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "championat",
+    "name": "Чемпионат.com",
+    "url": "http://championat.com/",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.championat.com/rss/news/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "ria",
+    "name": "RIA",
+    "url": "http://ria.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://rsport.ria.ru/export/rss2/index.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "utro",
+    "name": "Утро",
+    "url": "http://utro.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://utro.ru/export/rss2.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "svoboda.org",
+    "name": "Радио Свобода",
+    "url": "http://svoboda.org",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.svoboda.org/rss/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "iz.ru",
+    "name": "Известия",
+    "url": "http://iz.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://iz.ru/xml/rss/all.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "golos-ameriki",
+    "name": "ГОЛОС АМЕРИКИ",
+    "url": "http://golos-ameriki.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.golos-ameriki.ru/rss/?count=50",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "russia.tv",
+    "name": "Россия.tv",
+    "url": "http://russia.tv",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://russia.tv/rss/yandex",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "domashniy",
+    "name": "Домашний",
+    "url": "http://domashniy.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://domashniy.ru/rss/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "tvzvezda",
+    "name": "ЗВЕЗДА",
+    "url": "http://tvzvezda.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://tvzvezda.ru/export/rss.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "euronews",
+    "name": "Euronews",
+    "url": "http://ru.euronews.com",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://feeds.feedburner.com/euronews/ru/home",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "govoru.com",
+    "name": "Govoru.com",
+    "url": "http://govoru.com",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://govoru.com/feed/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "zona.media",
+    "name": "Медиазона",
+    "url": "http://zona.media",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://zona.media/rss/news.php",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "echo.msk.ru",
+    "name": "Эхо Москвы",
+    "url": "http://echo.msk.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://echo.msk.ru/interview/rss-fulltext.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "republic.ru",
+    "name": "Republic",
+    "url": "http://republic.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://republic.ru/export/all.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "rusplt.ru",
+    "name": "Русская планета",
+    "url": "http://rusplt.ru",
+    "country": "ru",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://rusplt.ru/index/new.rss",
+        "language": "ru"
+      }
+    ]
+  }
+]
