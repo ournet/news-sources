@@ -6,3 +6,4 @@ npm-debug.log
 *.tgz
 lib
 types
+package-lock.json
