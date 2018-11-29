@@ -20,6 +20,8 @@ Data is not cached.
 
 - `md` - Moldova
 - `ro` - Romania
+- `ru` - Russia
+- `bg` - Bulgaria
 
 ## Contributing
 
