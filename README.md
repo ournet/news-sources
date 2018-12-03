@@ -22,6 +22,7 @@ Data is not cached.
 - `ro` - Romania
 - `ru` - Russia
 - `bg` - Bulgaria
+- `in` - India
 
 ## Contributing
 
