@@ -1,0 +1,334 @@
+[
+  {
+    "id": "quotidiano",
+    "name": "QuotidianoNet",
+    "url": "http://www.quotidiano.net",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.quotidiano.net/rss/",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "adnkronos",
+    "name": "Adnkronos",
+    "url": "http://www.adnkronos.com",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://rss.adnkronos.com/RSS_Ultimora.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://rss.adnkronos.com/RSS_NewsDelGiorno.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://rss.adnkronos.com/RSS_Ultimora_AkiIta.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://rss.adnkronos.com/RSS_PrimaPagina.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilmessaggero",
+    "name": "Ilmessaggero",
+    "url": "http://www.ilmessaggero.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.ilmessaggero.it/rss/home.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://www.ilmessaggero.it/rss/economia.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://www.ilmessaggero.it/rss/societa.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://www.ilmessaggero.it/rss/tecnologia.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "agi",
+    "name": "AGI",
+    "url": "http://www.agi.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.agi.it/cronaca/rss",
+        "language": "it"
+      },
+      {
+        "url": "https://www.agi.it/economia/rss",
+        "language": "it"
+      },
+      {
+        "url": "https://www.agi.it/politica/rss",
+        "language": "it"
+      },
+      {
+        "url": "https://www.agi.it/estero/rss",
+        "language": "it"
+      },
+      {
+        "url": "https://www.agi.it/spettacolo/rss",
+        "language": "it"
+      },
+      {
+        "url": "https://www.agi.it/sport/rss",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "corrieredellosport",
+    "name": "CorriereDelloSport",
+    "url": "http://www.corrieredellosport.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.corrieredellosport.it/rss/",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "rainews",
+    "name": "RaiNews",
+    "url": "http://www.rainews.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.rainews.it/dl/rainews/rss/ContentSet-945f3230-f5e5-4292-a9b0-4e8bf5d266ef-0.html",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilsole24ore",
+    "name": "IlSole24ore",
+    "url": "http://www.ilsole24ore.com",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.ilsole24ore.com/rss/notizie.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/primapagina.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/mondo.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/impresa-e-territori.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/finanza-e-mercati.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/tecnologie.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/norme-e-tributi.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/commenti-e-idee.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/lifestyle.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/management.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.ilsole24ore.com/rss/cultura.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://stream24.ilsole24ore.com/RSS/generic",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "corriere",
+    "name": "Corriere",
+    "url": "http://www.corriere.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://xml2.corriereobjects.it/rss/homepage.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://xml2.corriereobjects.it/rss/ultimora.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://xml2.corriereobjects.it/rss/cronache.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://xml2.corriereobjects.it/rss/politica.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://xml2.corriereobjects.it/rss/esteri.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://feeds.feedburner.com/vitadigitale",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "repubblica",
+    "name": "Repubblica",
+    "url": "http://www.repubblica.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.repubblica.it/rss/homepage/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://espresso.repubblica.it/rss?sezione=espresso",
+        "language": "it"
+      },
+      {
+        "url": "https://bari.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://bologna.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://firenze.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://genova.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://milano.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://napoli.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://palermo.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://parma.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://roma.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://torino.repubblica.it/rss/rss2.0.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "lescienze",
+    "name": "Le Scienze",
+    "url": "http://www.lescienze.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.lescienze.it/rss/all/rss2.0.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilfattoquotidiano",
+    "name": "Il Fatto Quotidiano",
+    "url": "http://www.ilfattoquotidiano.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.ilfattoquotidiano.it/feed/",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "lapresse",
+    "name": "LaPresse",
+    "url": "http://www.lapresse.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.lapresse.it/rss",
+        "language": "it"
+      }
+    ]
+  }
+]
