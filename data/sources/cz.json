@@ -1,0 +1,412 @@
+[
+  {
+    "id": "denik",
+    "name": "Deník.cz",
+    "url": "http://denik.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.denik.cz/rss/z_domova.html",
+        "language": "cs"
+      },
+      {
+        "url": "https://sip.denik.cz/rss/vse.html",
+        "language": "cs"
+      },
+      {
+        "url": "https://ceskobudejovicky.denik.cz/rss/zpravy_region.html",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "idnes",
+    "name": "iDNES.cz",
+    "url": "http://idnes.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://servis.idnes.cz/rss.aspx",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "lidovky",
+    "name": "Lidovky.cz",
+    "url": "http://lidovky.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://servis.lidovky.cz/rss.aspx",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "patria",
+    "name": "Patria.cz",
+    "url": "http://patria.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.patria.cz/rss.xml",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "parlamentnilisty",
+    "name": "ParlamentníListy.cz",
+    "url": "http://parlamentnilisty.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.parlamentnilisty.cz/export/rss.aspx",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "tyden",
+    "name": "Tyden.cz",
+    "url": "http://tyden.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.tyden.cz/rss/rss.php",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "radio",
+    "name": "Radio.cz",
+    "url": "http://radio.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.radio.cz/feeds/rss/cs/cs.xml",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "rozhlas",
+    "name": "Rozhlas.cz",
+    "url": "http://rozhlas.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.rozhlas.cz/export/portal/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "ceskenoviny",
+    "name": "ČeskéNoviny.cz",
+    "url": "http://ceskenoviny.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.ceskenoviny.cz/sluzby/rss/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "blesk",
+    "name": "Blesk.cz",
+    "url": "http://blesk.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.blesk.cz/rss/1",
+        "language": "cs"
+      },
+      {
+        "url": "https://isport.blesk.cz/rss/54",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "sport",
+    "name": "Sport.cz",
+    "url": "http://sport.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.sport.cz/rss2",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "ahaonline",
+    "name": "Ahaonline.cz",
+    "url": "http://ahaonline.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.ahaonline.cz/rss/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "ceskatelevize",
+    "name": "CeskaTelevize.cz",
+    "url": "http://ceskatelevize.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://ct24.ceskatelevize.cz/rss/vsechny-zpravy",
+        "language": "cs"
+      },
+      {
+        "url": "https://ct24.ceskatelevize.cz/rss/hlavni-zpravy",
+        "language": "cs"
+      },
+      {
+        "url": "https://www.ceskatelevize.cz/sport/rss/vsechny-zpravy/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "ihned",
+    "name": "IHNED.cz",
+    "url": "http://ihned.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://ihned.cz/?p=000000_rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "literarky",
+    "name": "Literarky.cz",
+    "url": "http://literarky.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://literarky.cz/index.php?format=feed&type=rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "tn.nova",
+    "name": "TN.nova.cz",
+    "url": "http://tn.nova.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://rss.tn.nova.cz/zpravy/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "novinky",
+    "name": "Novinky.cz",
+    "url": "http://novinky.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://feeds.feedburner.com/novinkycz",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "kurzy",
+    "name": "Kurzy.cz",
+    "url": "http://kurzy.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.kurzy.cz/zpravy/util/forext.dat?type=rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "halonoviny",
+    "name": "Halonoviny.cz",
+    "url": "http://halonoviny.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.halonoviny.cz/articles/newsfeed.rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "eurozpravy",
+    "name": "EuroZpravy.cz",
+    "url": "http://eurozpravy.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://eurozpravy.cz/rss/all",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "iprima",
+    "name": "iPrima.cz",
+    "url": "http://iprima.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.iprima.cz/rss/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "reflex",
+    "name": "Reflex.cz",
+    "url": "http://reflex.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.reflex.cz/rss/1444",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "aktualne",
+    "name": "Aktualne.cz",
+    "url": "http://aktualne.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.aktualne.cz/rss/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "regionalninovinky",
+    "name": "RegionalniNovinky.cz",
+    "url": "http://regionalninovinky.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.regionalninovinky.cz/repository/rss/zpravy_all_cs.xml",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "prvnizpravy",
+    "name": "Prvnizpravy.cz",
+    "url": "http://prvnizpravy.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.prvnizpravy.cz/repository/rss/zpravy_all_cs.xml",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "e15",
+    "name": "E15.cz",
+    "url": "http://e15.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.e15.cz/rss",
+        "language": "cs"
+      }
+    ]
+  }
+]
