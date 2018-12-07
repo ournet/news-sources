@@ -23,11 +23,14 @@ Data is not cached.
 - `ru` - Russia
 - `bg` - Bulgaria
 - `in` - India
+- `it` - Italy
+- `hu` - Hungary
+- `cz` - Czech Republic
 
 ## Contributing
 
 Files you can contribute are in `data/sources` directory.
-Each file contains news sources in a single country.
+Each file contains news sources for a single country.
 
 You can add a new file or update existing ones.
 
