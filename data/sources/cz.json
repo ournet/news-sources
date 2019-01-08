@@ -408,5 +408,140 @@
         "language": "cs"
       }
     ]
+  },
+  {
+    "id": "a2larm.cz",
+    "name": "A2larm.cz",
+    "url": "http://a2larm.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "http://a2larm.cz/feed/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "ac24.cz",
+    "name": "AC24.cz",
+    "url": "http://ac24.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://ac24.cz/uvod?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_6LN4ieZ8eFrT&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "denikn.cz",
+    "name": "Denikn.cz",
+    "url": "http://denikn.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://denikn.cz/feed/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "echo24.cz",
+    "name": "Echo24.cz",
+    "url": "http://echo24.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://echo24.cz/rss/s/homepage",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "euro.cz",
+    "name": "Euro.cz",
+    "url": "http://euro.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.euro.cz/rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "hlidacipes.org",
+    "name": "Hlidacipes.org",
+    "url": "http://hlidacipes.org",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://hlidacipes.org/feed/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "irozhlas.cz",
+    "name": "Irozhlas.cz",
+    "url": "http://irozhlas.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.irozhlas.cz/rss/irozhlas",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "peak.cz",
+    "name": "Peak.cz",
+    "url": "http://peak.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.peak.cz/feed/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "roklen24.cz",
+    "name": "Roklen24.cz",
+    "url": "http://roklen24.cz",
+    "country": "cz",
+    "languages": [
+      "cs"
+    ],
+    "feeds": [
+      {
+        "url": "https://roklen24.cz/rss/s/homepage",
+        "language": "cs"
+      }
+    ]
   }
 ]
