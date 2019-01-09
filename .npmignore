@@ -4,7 +4,6 @@ src/
 tsconfig.json
 package-lock.json
 .travis.yml
-README.md
 types/scripts/
 lib/scripts/
 yarn.lock
