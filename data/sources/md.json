@@ -729,5 +729,170 @@
         "language": "ru"
       }
     ]
+  },
+  {
+    "id": "gagauznews",
+    "name": "Gagauznews.md",
+    "url": "http://www.gagauznews.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://gagauznews.md/feed",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "moldkorr",
+    "name": "MoldKorr.com",
+    "url": "http://www.moldkorr.com/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.moldkorr.com/feeds/posts/default?alt=rss",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "nokta.md",
+    "name": "Nokta.md",
+    "url": "http://www.nokta.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://nokta.md/feed/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "actualitati.md",
+    "name": "Actualitati.md",
+    "url": "http://www.actualitati.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://actualitati.md/feed",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "tvc.md",
+    "name": "TVC.md",
+    "url": "http://www.tvc.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://tvc.md/ru/feed",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "1news.md",
+    "name": "1news.md",
+    "url": "http://www.1news.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://1news.md/rss.xml",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "bloknot-moldova.md",
+    "name": "Блокнот-Молдова",
+    "url": "http://www.bloknot-moldova.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://bloknot-moldova.md/rss_news.php",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "ava.md",
+    "name": "AVA.md",
+    "url": "http://www.ava.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://ava.md/feed/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "eho.md",
+    "name": "Eho.md",
+    "url": "http://www.eho.md/",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "https://eho.md/feed/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "a-tv.md",
+    "name": "Accent TV",
+    "url": "http://www.a-tv.md",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://a-tv.md/engine/rss.php",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "newsru.md",
+    "name": "Newsru.md",
+    "url": "http://www.newsru.md",
+    "country": "md",
+    "languages": [
+      "ru"
+    ],
+    "feeds": [
+      {
+        "url": "http://newsru.md/feed/rss.nr",
+        "language": "ru"
+      }
+    ]
   }
 ]
