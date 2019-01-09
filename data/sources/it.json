@@ -330,5 +330,213 @@
         "language": "it"
       }
     ]
+  },
+  {
+    "id": "ansa.it",
+    "name": "ANSA",
+    "url": "http://www.ansa.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.ansa.it/sito/ansait_rss.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "gazzetta.it",
+    "name": "Gazzetta.it",
+    "url": "http://www.gazzetta.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.gazzetta.it/rss/home.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "fanpage.it",
+    "name": "Fanpage.it",
+    "url": "http://www.fanpage.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.fanpage.it/feed/",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "lastampa.it",
+    "name": "LaStampa.it",
+    "url": "http://www.lastampa.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.lastampa.it/rss.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://feeds.feedburner.com/radionostalgia/lenewsdiradionostalgia",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "tgcom24.it",
+    "name": "TGCOM24",
+    "url": "http://www.tgcom24.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.tgcom24.mediaset.it/rss/homepage.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.tgcom24.mediaset.it/rss/economia.xml",
+        "language": "it"
+      },
+      {
+        "url": "https://www.tgcom24.mediaset.it/rss/cronaca.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://www.tgcom24.mediaset.it/rss/mondo.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://www.tgcom24.mediaset.it/rss/politica.xml",
+        "language": "it"
+      },
+      {
+        "url": "http://www.tgcom24.mediaset.it/rss/sport.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "huffingtonpost.it",
+    "name": "Huffingtonpost.it",
+    "url": "http://www.huffingtonpost.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.huffingtonpost.it/feeds/index.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilgiornale.it",
+    "name": "ilGiornale.it",
+    "url": "http://www.ilgiornale.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.ilgiornale.it/feed.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilmattino.it",
+    "name": "ilMattino.it",
+    "url": "http://www.ilmattino.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.ilmattino.it/?sez=XML&p=search&limit=20&layout=rss",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilpost.it",
+    "name": "ilPost.it",
+    "url": "http://www.ilpost.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.ilpost.it/feed/",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "liberoquotidiano.it",
+    "name": "LiberoQuotidiano.it",
+    "url": "http://www.liberoquotidiano.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.liberoquotidiano.it/rss.jsp",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilsecoloxix.it",
+    "name": "ilSecoloxix.it",
+    "url": "http://www.ilsecoloxix.it",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.ilsecoloxix.it/homepage/rss/homepage.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "finanzaonline.com",
+    "name": "FinanzaOnline.com",
+    "url": "http://www.finanzaonline.com",
+    "country": "it",
+    "languages": [
+      "it"
+    ],
+    "feeds": [
+      {
+        "url": "http://www.finanzaonline.com/feed/",
+        "language": "it"
+      }
+    ]
   }
 ]
