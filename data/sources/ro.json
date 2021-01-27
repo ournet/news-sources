@@ -128,10 +128,6 @@
       "ro"
     ],
     "feeds": [
-      {
-        "url": "https://www.capital.ro/rss/",
-        "language": "ro"
-      }
     ]
   },
   {
@@ -173,10 +169,7 @@
       "ro"
     ],
     "feeds": [
-      {
-        "url": "https://www.dcnews.ro/feed",
-        "language": "ro"
-      }
+      
     ]
   },
   {
@@ -233,10 +226,7 @@
       "ro"
     ],
     "feeds": [
-      {
-        "url": "http://evz.ro/rss.xml",
-        "language": "ro"
-      }
+      
     ]
   },
   {
@@ -504,7 +494,7 @@
     ],
     "feeds": [
       {
-        "url": "http://www.romaniatv.net/rss/stiri.xml",
+        "url": "https://www.romaniatv.net/feed",
         "language": "ro"
       }
     ]
