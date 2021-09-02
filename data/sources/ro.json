@@ -110,10 +110,6 @@
     "country": "ro",
     "languages": ["ro"],
     "feeds": [
-      {
-        "url": "https://www.capital.ro/rss/",
-        "language": "ro"
-      }
     ]
   },
   {
@@ -149,10 +145,7 @@
     "country": "ro",
     "languages": ["ro"],
     "feeds": [
-      {
-        "url": "https://www.dcnews.ro/feed",
-        "language": "ro"
-      }
+      
     ]
   },
   {
@@ -201,10 +194,7 @@
     "country": "ro",
     "languages": ["ro"],
     "feeds": [
-      {
-        "url": "http://evz.ro/rss.xml",
-        "language": "ro"
-      }
+      
     ]
   },
   {
@@ -436,7 +426,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.romaniatv.net/rss/stiri.xml",
+        "url": "https://www.romaniatv.net/feed",
         "language": "ro"
       }
     ]
