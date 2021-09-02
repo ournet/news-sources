@@ -1,66 +1,56 @@
 {
-    "type": "array",
-    "items": {
-        "type": "object",
-        "properties": {
-            "id": {
-                "type": "string",
-                "pattern": "^[a-z0-9]+([-\\.][a-z0-9]+)*$"
-            },
-            "name": {
-                "type": "string"
-            },
-            "url": {
-                "type": "string"
-            },
-            "country": {
-                "type": "string",
-                "pattern": "^[a-z]{2}$"
-            },
-            "languages": {
-                "type": "array",
-                "items": {
-                    "type": "string",
-                    "pattern": "^[a-z]{2}$"
-                },
-                "minItems": 1,
-                "maxItems": 3
-            },
-            "feeds": {
-                "type": "array",
-                "items": {
-                    "type": "object",
-                    "properties": {
-                        "url": {
-                            "type": "string"
-                        },
-                        "language": {
-                            "type": "string",
-                            "pattern": "^[a-z]{2}$"
-                        }
-                    },
-                    "required": [
-                        "url",
-                        "language"
-                    ],
-                    "uniqueItems": true,
-                    "minItems": 1,
-                    "maxItems": 10,
-                    "additionalProperties": false
-                }
-            }
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+([-\\.][a-z0-9]+)*$"
+      },
+      "name": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string"
+      },
+      "country": {
+        "type": "string",
+        "pattern": "^[a-z]{2}$"
+      },
+      "languages": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z]{2}$"
         },
-        "required": [
-            "id",
-            "name",
-            "url",
-            "country",
-            "languages",
-            "feeds"
-        ],
-        "uniqueItems": true,
         "minItems": 1,
-        "maxItems": 1000,
-        "additionalProperties": false
-    }
+        "maxItems": 3
+      },
+      "feeds": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string"
+            },
+            "language": {
+              "type": "string",
+              "pattern": "^[a-z]{2}$"
+            }
+          },
+          "required": ["url", "language"],
+          "uniqueItems": true,
+          "minItems": 1,
+          "maxItems": 10,
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": ["id", "name", "url", "country", "languages", "feeds"],
+    "uniqueItems": true,
+    "minItems": 1,
+    "maxItems": 1000,
+    "additionalProperties": false
+  }
 }

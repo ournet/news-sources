@@ -4,9 +4,7 @@
     "name": "Hindustan Times",
     "url": "http://www.hindustantimes.com",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.hindustantimes.com/rss/topnews/rssfeed.xml",
@@ -87,9 +85,7 @@
     "name": "The Hindu",
     "url": "http://www.thehindu.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.thehindu.com/news/feeder/default.rss",
@@ -102,44 +98,15 @@
     "name": "IndianExpress",
     "url": "http://indianexpress.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
-    "feeds": [
-      {
-        "url": "https://indianexpress.com/section/sports/feed/",
-        "language": "en"
-      },
-      {
-        "url": "https://indianexpress.com/section/world/feed/",
-        "language": "en"
-      },
-      {
-        "url": "https://indianexpress.com/section/india/feed/",
-        "language": "en"
-      },
-      {
-        "url": "https://indianexpress.com/print/front-page/feed/",
-        "language": "en"
-      },
-      {
-        "url": "https://indianexpress.com/section/lifestyle/feed/",
-        "language": "en"
-      },
-      {
-        "url": "https://indianexpress.com/section/entertainment/feed/",
-        "language": "en"
-      }
-    ]
+    "languages": ["en"],
+    "feeds": []
   },
   {
     "id": "timesofindia",
     "name": "Times of India",
     "url": "http://timesofindia.indiatimes.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://timesofindia.indiatimes.com/rssfeeds/1221656.cms",
@@ -160,9 +127,7 @@
     "name": "DNA India",
     "url": "http://dnaindia.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.dnaindia.com/feeds/latest.xml",
@@ -175,9 +140,7 @@
     "name": "Business Standard",
     "url": "http://business-standard.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.business-standard.com/rss/latest.rss",
@@ -190,9 +153,7 @@
     "name": "IndiaToday",
     "url": "http://indiatoday.in/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.indiatoday.in/rss/home",
@@ -225,9 +186,7 @@
     "name": "India.com",
     "url": "http://india.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.india.com/feed/",
@@ -244,9 +203,7 @@
     "name": "NDTV",
     "url": "http://www.ndtv.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://feeds.feedburner.com/NDTV-LatestNews",
@@ -259,9 +216,7 @@
     "name": "FirstPost",
     "url": "http://www.firstpost.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.firstpost.com/feed",
@@ -274,9 +229,7 @@
     "name": "BollywoodLife",
     "url": "http://www.bollywoodlife.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.bollywoodlife.com/feed/",
@@ -289,9 +242,7 @@
     "name": "News18",
     "url": "http://www.news18.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.news18.com/rss/books.xml",
@@ -336,9 +287,7 @@
     "name": "DeccanChronicle",
     "url": "http://www.deccanchronicle.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.deccanchronicle.com/rss_feed/",
@@ -351,9 +300,7 @@
     "name": "OneIndia",
     "url": "http://www.oneindia.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.oneindia.com/rss/news-fb.xml",
@@ -366,9 +313,7 @@
     "name": "FinancialExpress",
     "url": "http://www.financialexpress.com/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.financialexpress.com/feed/",
@@ -381,9 +326,7 @@
     "name": "Scroll.in",
     "url": "http://scroll.in/",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "http://feeds.feedburner.com/ScrollinArticles.rss",
@@ -396,9 +339,7 @@
     "name": "TheQuint",
     "url": "http://www.thequint.com",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://prod-qt-images.s3.amazonaws.com/production/thequint/feed.xml",
@@ -411,9 +352,7 @@
     "name": "OutlookIndia",
     "url": "http://www.outlookindia.com",
     "country": "in",
-    "languages": [
-      "en"
-    ],
+    "languages": ["en"],
     "feeds": [
       {
         "url": "https://www.outlookindia.com/rss/main/website",
