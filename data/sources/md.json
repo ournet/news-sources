@@ -4,27 +4,18 @@
     "name": "Protv.md",
     "url": "http://protv.md",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
-    "feeds": [
-      {
-        "url": "http://rss.protv.md",
-        "language": "ro"
-      }
-    ]
+    "languages": ["ro"],
+    "feeds": []
   },
   {
     "id": "agora",
     "name": "Agora.md",
     "url": "http://agora.md",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://agora.md/rss/news",
+        "url": "https://agora.md/rss/news",
         "language": "ro"
       }
     ]
@@ -34,12 +25,10 @@
     "name": "Adevarul.md",
     "url": "http://adevarul.md",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://adevarul.ro/rss/moldova/",
+        "url": "https://adevarul.ro/rss/stiri-externe/republica-moldova",
         "language": "ro"
       }
     ]
@@ -49,12 +38,10 @@
     "name": "Tv8.md",
     "url": "http://tv8.md",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://tv8.md/feed/",
+        "url": "https://tv8.md/feed",
         "language": "ro"
       }
     ]
@@ -64,9 +51,7 @@
     "name": "Abcnews.md",
     "url": "http://abcnews.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
         "url": "https://abcnews.md/feed/",
@@ -79,28 +64,23 @@
     "name": "Canal2.md",
     "url": "http://www.canal2.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
-    "feeds": [
-      {
-        "url": "http://www.canal2.md/feed/",
-        "language": "ro"
-      }
-    ]
+    "languages": ["ro"],
+    "feeds": []
   },
   {
     "id": "canal3",
     "name": "Canal3.md",
     "url": "http://www.canal3.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.canal3.md/ro/feed",
+        "url": "https://www.canal3.md/rss/",
         "language": "ro"
+      },
+      {
+        "url": "https://www.canal3.md/ru/rss/",
+        "language": "ru"
       }
     ]
   },
@@ -109,9 +89,7 @@
     "name": "Curentul.md",
     "url": "http://curentul.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
         "url": "http://curentul.md/feed",
@@ -124,11 +102,7 @@
     "name": "Deschide.md",
     "url": "http://deschide.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru",
-      "en"
-    ],
+    "languages": ["ro", "ru", "en"],
     "feeds": [
       {
         "url": "https://deschide.md/ro/feed/",
@@ -149,12 +123,10 @@
     "name": "Dw.com",
     "url": "http://www.dw.com/ro/focus/moldova/s-11630",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://rss.dw.de/xml/rss-rom-moldova",
+        "url": "https://rss.dw.com/xml/rss-rom-moldova",
         "language": "ro"
       }
     ]
@@ -164,12 +136,10 @@
     "name": "Europalibera",
     "url": "http://www.europalibera.org/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.europalibera.org/api/zvmo_eo$o_",
+        "url": "https://moldova.europalibera.org/api/zkmotembot",
         "language": "ro"
       }
     ]
@@ -179,9 +149,7 @@
     "name": "Expresul.md",
     "url": "http://www.expresul.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
         "url": "https://www.expresul.md/feed/",
@@ -194,11 +162,7 @@
     "name": "Gov.md",
     "url": "http://gov.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru",
-      "en"
-    ],
+    "languages": ["ro", "ru", "en"],
     "feeds": [
       {
         "url": "https://gov.md/ro/press/feed",
@@ -219,12 +183,10 @@
     "name": "Independent.md",
     "url": "http://independent.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://independent.md/feed/",
+        "url": "https://independent.md/feed/",
         "language": "ro"
       }
     ]
@@ -234,22 +196,18 @@
     "name": "IPN.md",
     "url": "http://ipn.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru",
-      "en"
-    ],
+    "languages": ["ro", "ru", "en"],
     "feeds": [
       {
-        "url": "http://ipn.md/ro/rss",
+        "url": "https://www.ipn.md/ro/feed",
         "language": "ro"
       },
       {
-        "url": "http://ipn.md/ru/rss",
+        "url": "https://www.ipn.md/ru/feed",
         "language": "ru"
       },
       {
-        "url": "http://ipn.md/en/rss",
+        "url": "https://www.ipn.md/en/feed",
         "language": "en"
       }
     ]
@@ -259,12 +217,10 @@
     "name": "Jurnal.md",
     "url": "http://jurnal.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://jurnal.md/ro/rss/all",
+        "url": "https://www.jurnal.md/ro/rss/all",
         "language": "ro"
       }
     ]
@@ -274,12 +230,10 @@
     "name": "JurnalTV",
     "url": "http://www.jurnaltv.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.jurnaltv.md/rss/ro/all",
+        "url": "https://www.jurnaltv.md/rss/ro/all",
         "language": "ro"
       }
     ]
@@ -289,58 +243,27 @@
     "name": "Medianews",
     "url": "http://medianews.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
-    "feeds": [
-      {
-        "url": "http://medianews.md/?option=com_k2&task=content&view=itemlist&format=feed",
-        "language": "ro"
-      }
-    ]
+    "languages": ["ro"],
+    "feeds": []
   },
   {
     "id": "moldnews",
     "name": "Moldnews.md",
     "url": "http://moldnews.md",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "http://moldnews.md/rss/rom/",
-        "language": "ro"
-      },
-      {
-        "url": "http://moldnews.md/rss/",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ro", "ru"],
+    "feeds": []
   },
   {
     "id": "moldovaorg",
     "name": "Moldova.org",
     "url": "http://www.moldova.org/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru",
-      "en"
-    ],
+    "languages": ["ro", "ru", "en"],
     "feeds": [
       {
-        "url": "http://www.moldova.org/feed/",
+        "url": "https://www.moldova.org/feed/",
         "language": "ro"
-      },
-      {
-        "url": "http://www.moldova.org/ru/feed/",
-        "language": "ru"
-      },
-      {
-        "url": "http://www.moldova.org/en/feed/",
-        "language": "en"
       }
     ]
   },
@@ -349,10 +272,7 @@
     "name": "Noi.md",
     "url": "http://noi.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru"
-    ],
+    "languages": ["ro", "ru"],
     "feeds": [
       {
         "url": "https://noi.md/md/feed/",
@@ -369,10 +289,7 @@
     "name": "Observatorul",
     "url": "http://observatorul.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru"
-    ],
+    "languages": ["ro", "ru"],
     "feeds": [
       {
         "url": "https://observatorul.md/feed",
@@ -385,48 +302,32 @@
     "name": "PolițiaCapitalei",
     "url": "http://politiacapitalei.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
-    "feeds": [
-      {
-        "url": "http://politiacapitalei.md/feed/",
-        "language": "ro"
-      }
-    ]
+    "languages": ["ro"],
+    "feeds": []
   },
   {
     "id": "politik",
     "name": "Politik.md",
     "url": "http://politik.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://politik.md/rss.php",
+        "url": "https://politik.md/feed/",
         "language": "ro"
       }
     ]
   },
   {
-    "id": "prime",
-    "name": "Prime",
-    "url": "http://prime.md/",
+    "id": "primelestiri",
+    "name": "Primelestiri",
+    "url": "https://primelestiri.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru"
-    ],
+    "languages": ["ro", "ru"],
     "feeds": [
       {
-        "url": "https://www.prime.md/ro/rss/",
+        "url": "https://primelestiri.md/feed/",
         "language": "ro"
-      },
-      {
-        "url": "https://www.prime.md/ru/rss/",
-        "language": "ru"
       }
     ]
   },
@@ -435,11 +336,7 @@
     "name": "Publika",
     "url": "http://www.publika.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru",
-      "en"
-    ],
+    "languages": ["ro", "ru", "en"],
     "feeds": [
       {
         "url": "https://rss.publika.md/stiri.xml",
@@ -460,9 +357,7 @@
     "name": "RadioChișinău",
     "url": "http://radiochisinau.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
         "url": "https://radiochisinau.md/feed/",
@@ -475,12 +370,10 @@
     "name": "Realitatea.md",
     "url": "http://www.realitatea.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.realitatea.md/rss/stiri.xml",
+        "url": "https://realitatea.md/feed/",
         "language": "ro"
       }
     ]
@@ -490,12 +383,10 @@
     "name": "Shok.md",
     "url": "http://shok.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://shok.md/feed",
+        "url": "https://shok.md/feed/",
         "language": "ro"
       }
     ]
@@ -505,47 +396,26 @@
     "name": "Sputnik.md",
     "url": "https://sputnik.md/",
     "country": "md",
-    "languages": [
-      "ro",
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "https://sputnik.md/export/rss2/archive/index.xml",
-        "language": "ro"
-      },
-      {
-        "url": "https://ru.sputnik.md/export/rss2/archive/index.xml",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ro", "ru"],
+    "feeds": []
   },
   {
     "id": "stirilocale",
     "name": "Știrilocale",
     "url": "http://stirilocale.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
-    "feeds": [
-      {
-        "url": "http://stirilocale.md/feed",
-        "language": "ro"
-      }
-    ]
+    "languages": ["ro"],
+    "feeds": []
   },
   {
     "id": "timpul",
     "name": "Timpul.md",
     "url": "http://www.timpul.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.timpul.md/rss",
+        "url": "https://timpul.md/feed",
         "language": "ro"
       }
     ]
@@ -555,27 +425,18 @@
     "name": "Today.md",
     "url": "http://today.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
-    "feeds": [
-      {
-        "url": "http://today.md/ro/static/rss/",
-        "language": "ro"
-      }
-    ]
+    "languages": ["ro"],
+    "feeds": []
   },
   {
     "id": "tribuna",
     "name": "Tribuna.md",
     "url": "http://tribuna.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://tribuna.md/feed/",
+        "url": "https://tribuna.md/feed/",
         "language": "ro"
       }
     ]
@@ -585,12 +446,10 @@
     "name": "Unimedia",
     "url": "http://unimedia.info/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://unimedia.info/rss/news.xml",
+        "url": "https://unimedia.info/ro/rss/all",
         "language": "ro"
       }
     ]
@@ -600,12 +459,10 @@
     "name": "Zdg.md",
     "url": "http://www.zdg.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.zdg.md/feed",
+        "url": "https://www.zdg.md/feed/",
         "language": "ro"
       }
     ]
@@ -615,9 +472,7 @@
     "name": "ZiarulNațional",
     "url": "http://www.ziarulnational.md/",
     "country": "md",
-    "languages": [
-      "ro"
-    ],
+    "languages": ["ro"],
     "feeds": [
       {
         "url": "https://www.ziarulnational.md/events/item/index.rss",
@@ -630,12 +485,10 @@
     "name": "Aif.md",
     "url": "http://aif.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
-        "url": "http://aif.md/feed/",
+        "url": "https://aif.md/feed/",
         "language": "ru"
       }
     ]
@@ -645,12 +498,10 @@
     "name": "ESP.md",
     "url": "http://esp.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
-        "url": "http://esp.md/feed/rss",
+        "url": "https://esp.md/feed/rss",
         "language": "ru"
       }
     ]
@@ -660,27 +511,18 @@
     "name": "Golos.md",
     "url": "http://golos.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "http://golos.md/rss",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ru"],
+    "feeds": []
   },
   {
     "id": "kp",
     "name": "KP.md",
     "url": "http://www.kp.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
-        "url": "http://www.kp.md/rss/yandex-md-all.xml",
+        "url": "https://www.kp.md/rss/yandex-md-all.xml",
         "language": "ru"
       }
     ]
@@ -690,24 +532,15 @@
     "name": "Press.try.md",
     "url": "http://press.try.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "http://feeds.feedburner.com/press-obozrenie",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ru"],
+    "feeds": []
   },
   {
     "id": "vedomosti",
     "name": "Vedomosti.md",
     "url": "http://www.vedomosti.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://www.vedomosti.md/yandex_rss",
@@ -720,9 +553,7 @@
     "name": "ВЕСТИ.МД",
     "url": "http://www.vesti.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.vesti.md/rss/news.xml",
@@ -735,24 +566,15 @@
     "name": "Gagauznews.md",
     "url": "http://www.gagauznews.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "http://gagauznews.md/feed",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ru"],
+    "feeds": []
   },
   {
     "id": "moldkorr",
     "name": "MoldKorr.com",
     "url": "http://www.moldkorr.com/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.moldkorr.com/feeds/posts/default?alt=rss",
@@ -765,12 +587,10 @@
     "name": "Nokta.md",
     "url": "http://www.nokta.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
-        "url": "http://nokta.md/feed/",
+        "url": "https://nokta.md/feed/",
         "language": "ru"
       }
     ]
@@ -780,28 +600,28 @@
     "name": "Actualitati.md",
     "url": "http://www.actualitati.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
-        "url": "http://actualitati.md/feed",
+        "url": "https://actualitati.md/feed",
         "language": "ru"
       }
     ]
   },
   {
-    "id": "tvc.md",
-    "name": "TVC.md",
-    "url": "http://www.tvc.md/",
+    "id": "tv6.md",
+    "name": "TV6.md",
+    "url": "http://www.tv6.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ro", "ru"],
     "feeds": [
       {
-        "url": "https://tvc.md/ru/feed",
+        "url": "https://tv6.md/ru/feed/",
         "language": "ru"
+      },
+      {
+        "url": "https://tv6.md/ro/feed/",
+        "language": "ro"
       }
     ]
   },
@@ -810,39 +630,23 @@
     "name": "1news.md",
     "url": "http://www.1news.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "http://1news.md/rss.xml",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ru"],
+    "feeds": []
   },
   {
     "id": "bloknot-moldova.md",
     "name": "Блокнот-Молдова",
     "url": "http://www.bloknot-moldova.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "http://bloknot-moldova.md/rss_news.php",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ru"],
+    "feeds": []
   },
   {
     "id": "ava.md",
     "name": "AVA.md",
     "url": "http://www.ava.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://ava.md/feed/",
@@ -855,27 +659,22 @@
     "name": "Eho.md",
     "url": "http://www.eho.md/",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
-    "feeds": [
-      {
-        "url": "https://eho.md/feed/",
-        "language": "ru"
-      }
-    ]
+    "languages": ["ru"],
+    "feeds": []
   },
   {
     "id": "a-tv.md",
     "name": "Accent TV",
     "url": "http://www.a-tv.md",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ro", "ru"],
     "feeds": [
       {
-        "url": "http://a-tv.md/engine/rss.php",
+        "url": "https://a-tv.md/feed/",
+        "language": "ro"
+      },
+      {
+        "url": "https://a-tv.md/ru/feed/",
         "language": "ru"
       }
     ]
@@ -885,9 +684,7 @@
     "name": "Newsru.md",
     "url": "http://www.newsru.md",
     "country": "md",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://newsru.md/feed/rss.nr",

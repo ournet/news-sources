@@ -20,7 +20,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://adevarul.ro/rss/",
+        "url": "https://adevarul.ro/rss/index",
         "language": "ro"
       }
     ]
@@ -31,12 +31,7 @@
     "url": "http://www.agerpres.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": [
-      {
-        "url": "https://www.agerpres.ro/rss/",
-        "language": "ro"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "antena3",
@@ -59,7 +54,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.business24.ro/rss/12h.xml",
+        "url": "https://www.business24.ro/rss/12h.xml",
         "language": "ro"
       }
     ]
@@ -72,7 +67,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.businessmagazin.ro/rss-feed.xml",
+        "url": "https://www.businessmagazin.ro/rss-feed.xml",
         "language": "ro"
       }
     ]
@@ -85,7 +80,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.bzi.ro/rss",
+        "url": "https://www.bzi.ro/feed",
         "language": "ro"
       }
     ]
@@ -109,8 +104,7 @@
     "url": "http://www.capital.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": [
-    ]
+    "feeds": []
   },
   {
     "id": "catavencii",
@@ -144,9 +138,7 @@
     "url": "http://www.dcnews.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": [
-      
-    ]
+    "feeds": []
   },
   {
     "id": "dilemaveche",
@@ -156,7 +148,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://dilemaveche.ro/rss",
+        "url": "https://dilemaveche.ro/rss/index",
         "language": "ro"
       }
     ]
@@ -167,12 +159,7 @@
     "url": "http://eazi.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": [
-      {
-        "url": "http://eazi.ro/rss",
-        "language": "ro"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "euractiv",
@@ -193,9 +180,7 @@
     "url": "http://evz.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": [
-      
-    ]
+    "feeds": []
   },
   {
     "id": "green-report",
@@ -237,14 +222,14 @@
     ]
   },
   {
-    "id": "incont",
-    "name": "Încont",
-    "url": "http://incont.stirileprotv.ro/",
+    "id": "ibani",
+    "name": "iBani",
+    "url": "http://ibani.stirileprotv.ro/",
     "country": "ro",
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://incont.stirileprotv.ro/rss",
+        "url": "https://ibani.stirileprotv.ro/rss",
         "language": "ro"
       }
     ]
@@ -252,12 +237,12 @@
   {
     "id": "jurnalul",
     "name": "Jurnalul",
-    "url": "http://jurnalul.antena3.ro/",
+    "url": "http://jurnalul.ro/",
     "country": "ro",
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://jurnalul.antena3.ro/rss",
+        "url": "https://jurnalul.ro/rss",
         "language": "ro"
       }
     ]
@@ -276,14 +261,14 @@
     ]
   },
   {
-    "id": "observator-tv",
-    "name": "Observator.tv",
-    "url": "http://observator.tv/",
+    "id": "observatornews",
+    "name": "Observatornews.ro",
+    "url": "http://observatornews.ro/",
     "country": "ro",
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://observator.tv/rss",
+        "url": "https://observatornews.ro/rss",
         "language": "ro"
       }
     ]
@@ -296,7 +281,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.mediafax.ro/rss/",
+        "url": "https://www.mediafax.ro/rss",
         "language": "ro"
       }
     ]
@@ -361,7 +346,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.puterea.ro/rss/",
+        "url": "http://www.puterea.ro/feed/",
         "language": "ro"
       }
     ]
@@ -374,7 +359,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://rss.realitatea.net/stiri.xml",
+        "url": "https://rss.realitatea.net/stiri.xml",
         "language": "ro"
       }
     ]
@@ -400,7 +385,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.romania-actualitati.ro/rrapages/rss/2.rss",
+        "url": "https://www.romania-actualitati.ro/rss",
         "language": "ro"
       }
     ]
@@ -413,7 +398,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://romanialibera.ro/rss",
+        "url": "https://romanialibera.ro/feed/",
         "language": "ro"
       }
     ]
@@ -439,7 +424,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.sfin.ro/rss",
+        "url": "https://www.sfin.ro/feed/",
         "language": "ro"
       }
     ]
@@ -504,7 +489,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://www.zf.ro/rss/",
+        "url": "https://www.zf.ro/rss/",
         "language": "ro"
       }
     ]
