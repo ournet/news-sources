@@ -1,7 +1,7 @@
 [
   {
     "id": "a1",
-    "name": "A1",
+    "name": "A1.ro",
     "url": "http://a1.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -14,7 +14,7 @@
   },
   {
     "id": "adevarul",
-    "name": "Adevarul",
+    "name": "Adevarul.ro",
     "url": "http://adevarul.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -27,7 +27,7 @@
   },
   {
     "id": "agerpres",
-    "name": "Agerpres",
+    "name": "Agerpres.ro",
     "url": "http://www.agerpres.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -35,7 +35,7 @@
   },
   {
     "id": "antena3",
-    "name": "Antena3",
+    "name": "Antena3.ro",
     "url": "http://www.antena3.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -48,7 +48,7 @@
   },
   {
     "id": "business24",
-    "name": "Business24",
+    "name": "Business24.ro",
     "url": "http://www.business24.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -61,7 +61,7 @@
   },
   {
     "id": "businessmagazin",
-    "name": "BusinessMagazin",
+    "name": "BusinessMagazin.ro",
     "url": "http://www.businessmagazin.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -74,7 +74,7 @@
   },
   {
     "id": "bzi",
-    "name": "BZI",
+    "name": "BZI.ro",
     "url": "http://www.bzi.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -87,7 +87,7 @@
   },
   {
     "id": "cancan",
-    "name": "CANCAN",
+    "name": "CANCAN.ro",
     "url": "http://www.cancan.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -100,7 +100,7 @@
   },
   {
     "id": "capital",
-    "name": "Capital",
+    "name": "Capital.ro",
     "url": "http://www.capital.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -108,7 +108,7 @@
   },
   {
     "id": "catavencii",
-    "name": "Cațavencii",
+    "name": "Cațavencii.ro",
     "url": "http://www.catavencii.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -121,7 +121,7 @@
   },
   {
     "id": "cotidianul",
-    "name": "Cotidianul",
+    "name": "Cotidianul.ro",
     "url": "http://www.cotidianul.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -134,7 +134,7 @@
   },
   {
     "id": "dcnews",
-    "name": "DCnews",
+    "name": "DCnews.ro",
     "url": "http://www.dcnews.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -142,7 +142,7 @@
   },
   {
     "id": "dilemaveche",
-    "name": "DilemaVeche",
+    "name": "DilemaVeche.ro",
     "url": "http://dilemaveche.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -155,7 +155,7 @@
   },
   {
     "id": "eazi",
-    "name": "eAzi",
+    "name": "eAzi.ro",
     "url": "http://eazi.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -163,7 +163,7 @@
   },
   {
     "id": "euractiv",
-    "name": "Euractiv",
+    "name": "Euractiv.ro",
     "url": "http://www.euractiv.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -184,7 +184,7 @@
   },
   {
     "id": "green-report",
-    "name": "Green-report",
+    "name": "Green-report.ro",
     "url": "http://www.green-report.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -210,7 +210,7 @@
   },
   {
     "id": "hotnews",
-    "name": "Hotnews",
+    "name": "Hotnews.ro",
     "url": "http://www.hotnews.ro",
     "country": "ro",
     "languages": ["ro"],
@@ -236,7 +236,7 @@
   },
   {
     "id": "jurnalul",
-    "name": "Jurnalul",
+    "name": "Jurnalul.ro",
     "url": "http://jurnalul.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -249,7 +249,7 @@
   },
   {
     "id": "libertatea",
-    "name": "Libertatea",
+    "name": "Libertatea.ro",
     "url": "http://www.libertatea.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -275,7 +275,7 @@
   },
   {
     "id": "mediafax",
-    "name": "Mediafax",
+    "name": "Mediafax.ro",
     "url": "http://www.mediafax.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -288,7 +288,7 @@
   },
   {
     "id": "money",
-    "name": "Money",
+    "name": "Money.ro",
     "url": "http://www.money.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -301,7 +301,7 @@
   },
   {
     "id": "onlinesport",
-    "name": "Onlinesport",
+    "name": "Onlinesport.ro",
     "url": "http://www.onlinesport.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -314,7 +314,7 @@
   },
   {
     "id": "paginademedia",
-    "name": "PaginaDeMedia",
+    "name": "PaginaDeMedia.ro",
     "url": "http://www.paginademedia.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -327,7 +327,7 @@
   },
   {
     "id": "prosport",
-    "name": "ProSport",
+    "name": "ProSport.ro",
     "url": "http://www.prosport.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -340,7 +340,7 @@
   },
   {
     "id": "puterea",
-    "name": "Puterea",
+    "name": "Puterea.ro",
     "url": "http://www.puterea.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -353,7 +353,7 @@
   },
   {
     "id": "realitatea",
-    "name": "Realitatea",
+    "name": "Realitatea.ro",
     "url": "http://www.realitatea.net/",
     "country": "ro",
     "languages": ["ro"],
@@ -392,7 +392,7 @@
   },
   {
     "id": "romanialibera",
-    "name": "RomâniaLiberă",
+    "name": "RomâniaLiberă.ro",
     "url": "http://romanialibera.ro/",
     "country": "ro",
     "languages": ["ro"],
@@ -405,7 +405,7 @@
   },
   {
     "id": "romaniatv",
-    "name": "RomâniaTV",
+    "name": "RomâniaTV.net",
     "url": "http://www.romaniatv.net/",
     "country": "ro",
     "languages": ["ro"],
@@ -444,7 +444,7 @@
   },
   {
     "id": "stirileprotv",
-    "name": "ȘtirileProtv",
+    "name": "ȘtirileProtv.ro",
     "url": "http://stirileprotv.ro/",
     "country": "ro",
     "languages": ["ro"],

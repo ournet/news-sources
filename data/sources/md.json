@@ -133,7 +133,7 @@
   },
   {
     "id": "europalibera",
-    "name": "Europalibera",
+    "name": "Europalibera.org",
     "url": "http://www.europalibera.org/",
     "country": "md",
     "languages": ["ro"],
@@ -227,7 +227,7 @@
   },
   {
     "id": "jurnaltv",
-    "name": "JurnalTV",
+    "name": "JurnalTV.md",
     "url": "http://www.jurnaltv.md/",
     "country": "md",
     "languages": ["ro"],
@@ -240,7 +240,7 @@
   },
   {
     "id": "medianews",
-    "name": "Medianews",
+    "name": "Medianews.md",
     "url": "http://medianews.md/",
     "country": "md",
     "languages": ["ro"],
@@ -286,7 +286,7 @@
   },
   {
     "id": "observatorul",
-    "name": "Observatorul",
+    "name": "Observatorul.md",
     "url": "http://observatorul.md/",
     "country": "md",
     "languages": ["ro", "ru"],
@@ -299,7 +299,7 @@
   },
   {
     "id": "politiacapitalei",
-    "name": "PolițiaCapitalei",
+    "name": "PolițiaCapitalei.md",
     "url": "http://politiacapitalei.md/",
     "country": "md",
     "languages": ["ro"],
@@ -320,7 +320,7 @@
   },
   {
     "id": "primelestiri",
-    "name": "Primelestiri",
+    "name": "Primelestiri.md",
     "url": "https://primelestiri.md/",
     "country": "md",
     "languages": ["ro", "ru"],
@@ -401,7 +401,7 @@
   },
   {
     "id": "stirilocale",
-    "name": "Știrilocale",
+    "name": "Știrilocale.md",
     "url": "http://stirilocale.md/",
     "country": "md",
     "languages": ["ro"],
@@ -443,7 +443,7 @@
   },
   {
     "id": "unimedia",
-    "name": "Unimedia",
+    "name": "Unimedia.info",
     "url": "http://unimedia.info/",
     "country": "md",
     "languages": ["ro"],
@@ -469,7 +469,7 @@
   },
   {
     "id": "ziarulnational",
-    "name": "ZiarulNațional",
+    "name": "ZiarulNațional.md",
     "url": "http://www.ziarulnational.md/",
     "country": "md",
     "languages": ["ro"],
@@ -689,6 +689,19 @@
       {
         "url": "http://newsru.md/feed/rss.nr",
         "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "n4.md",
+    "name": "N4.md",
+    "url": "https://www.n4.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://n4.md/feed/",
+        "language": "ro"
       }
     ]
   }

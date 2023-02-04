@@ -4,9 +4,7 @@
     "name": "QuotidianoNet",
     "url": "http://www.quotidiano.net",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.quotidiano.net/rss/",
@@ -16,12 +14,10 @@
   },
   {
     "id": "adnkronos",
-    "name": "Adnkronos",
+    "name": "Adnkronos.com",
     "url": "http://www.adnkronos.com",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://rss.adnkronos.com/RSS_Ultimora.xml",
@@ -43,12 +39,10 @@
   },
   {
     "id": "ilmessaggero",
-    "name": "Ilmessaggero",
+    "name": "Ilmessaggero.it",
     "url": "http://www.ilmessaggero.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.ilmessaggero.it/rss/home.xml",
@@ -70,12 +64,10 @@
   },
   {
     "id": "agi",
-    "name": "AGI",
+    "name": "AGI.it",
     "url": "http://www.agi.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.agi.it/cronaca/rss",
@@ -105,12 +97,10 @@
   },
   {
     "id": "corrieredellosport",
-    "name": "CorriereDelloSport",
+    "name": "CorriereDelloSport.it",
     "url": "http://www.corrieredellosport.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.corrieredellosport.it/rss/",
@@ -120,12 +110,10 @@
   },
   {
     "id": "rainews",
-    "name": "RaiNews",
+    "name": "RaiNews.it",
     "url": "http://www.rainews.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.rainews.it/dl/rainews/rss/ContentSet-945f3230-f5e5-4292-a9b0-4e8bf5d266ef-0.html",
@@ -135,12 +123,10 @@
   },
   {
     "id": "ilsole24ore",
-    "name": "IlSole24ore",
+    "name": "IlSole24ore.com",
     "url": "http://www.ilsole24ore.com",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.ilsole24ore.com/rss/notizie.xml",
@@ -194,12 +180,10 @@
   },
   {
     "id": "corriere",
-    "name": "Corriere",
+    "name": "Corriere.it",
     "url": "http://www.corriere.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://xml2.corriereobjects.it/rss/homepage.xml",
@@ -229,12 +213,10 @@
   },
   {
     "id": "repubblica",
-    "name": "Repubblica",
+    "name": "Repubblica.it",
     "url": "http://www.repubblica.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.repubblica.it/rss/homepage/rss2.0.xml",
@@ -288,12 +270,10 @@
   },
   {
     "id": "lescienze",
-    "name": "Le Scienze",
+    "name": "Le Scienze.it",
     "url": "http://www.lescienze.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.lescienze.it/rss/all/rss2.0.xml",
@@ -303,12 +283,10 @@
   },
   {
     "id": "ilfattoquotidiano",
-    "name": "Il Fatto Quotidiano",
+    "name": "Il Fatto Quotidiano.it",
     "url": "http://www.ilfattoquotidiano.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.ilfattoquotidiano.it/feed/",
@@ -318,12 +296,10 @@
   },
   {
     "id": "lapresse",
-    "name": "LaPresse",
+    "name": "LaPresse.it",
     "url": "http://www.lapresse.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.lapresse.it/rss",
@@ -333,12 +309,10 @@
   },
   {
     "id": "ansa.it",
-    "name": "ANSA",
+    "name": "ANSA.it",
     "url": "http://www.ansa.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.ansa.it/sito/ansait_rss.xml",
@@ -355,9 +329,7 @@
     "name": "Gazzetta.it",
     "url": "http://www.gazzetta.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.gazzetta.it/rss/home.xml",
@@ -370,9 +342,7 @@
     "name": "Fanpage.it",
     "url": "http://www.fanpage.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.fanpage.it/feed/",
@@ -385,9 +355,7 @@
     "name": "LaStampa.it",
     "url": "http://www.lastampa.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.lastampa.it/rss.xml",
@@ -404,9 +372,7 @@
     "name": "TGCOM24",
     "url": "http://www.tgcom24.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.tgcom24.mediaset.it/rss/homepage.xml",
@@ -439,9 +405,7 @@
     "name": "Huffingtonpost.it",
     "url": "http://www.huffingtonpost.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.huffingtonpost.it/feeds/index.xml",
@@ -454,9 +418,7 @@
     "name": "ilGiornale.it",
     "url": "http://www.ilgiornale.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.ilgiornale.it/feed.xml",
@@ -469,9 +431,7 @@
     "name": "ilMattino.it",
     "url": "http://www.ilmattino.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.ilmattino.it/?sez=XML&p=search&limit=20&layout=rss",
@@ -484,9 +444,7 @@
     "name": "ilPost.it",
     "url": "http://www.ilpost.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.ilpost.it/feed/",
@@ -499,9 +457,7 @@
     "name": "LiberoQuotidiano.it",
     "url": "http://www.liberoquotidiano.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "https://www.liberoquotidiano.it/rss.jsp",
@@ -514,9 +470,7 @@
     "name": "ilSecoloxix.it",
     "url": "http://www.ilsecoloxix.it",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.ilsecoloxix.it/homepage/rss/homepage.xml",
@@ -529,9 +483,7 @@
     "name": "FinanzaOnline.com",
     "url": "http://www.finanzaonline.com",
     "country": "it",
-    "languages": [
-      "it"
-    ],
+    "languages": ["it"],
     "feeds": [
       {
         "url": "http://www.finanzaonline.com/feed/",

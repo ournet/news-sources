@@ -4,9 +4,7 @@
     "name": "ВЕСТИ",
     "url": "http://www.vesti.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://www.vesti.ru/vesti.rss",
@@ -23,9 +21,7 @@
     "name": "CNews",
     "url": "http://www.cnews.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://www.cnews.ru/inc/rss/news.xml",
@@ -38,9 +34,7 @@
     "name": "РБК",
     "url": "http://www.rbc.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://static.feed.rbc.ru/rbc/logical/footer/news.rss",
@@ -57,9 +51,7 @@
     "name": "Российская Газета",
     "url": "http://www.rg.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://www.rg.ru/xml/index.xml",
@@ -72,9 +64,7 @@
     "name": "REGNUM",
     "url": "http://regnum.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://regnum.ru/rss/news",
@@ -87,9 +77,7 @@
     "name": "RUSSIA.RU",
     "url": "http://russiaru.net/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://russiaru.net/rss/rss.xml",
@@ -102,9 +90,7 @@
     "name": "Дни.ру",
     "url": "http://dni.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://dni.ru/rss.xml",
@@ -117,9 +103,7 @@
     "name": "Lenta",
     "url": "http://lenta.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://lenta.ru/rss/",
@@ -132,9 +116,7 @@
     "name": "Newsru",
     "url": "http://newsru.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://rss.newsru.com/all_news/",
@@ -151,9 +133,7 @@
     "name": "Inopressa",
     "url": "http://inopressa.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.inopressa.ru/rss/",
@@ -166,9 +146,7 @@
     "name": "Газета",
     "url": "http://gazeta.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.gazeta.ru/export/rss/lastnews.xml",
@@ -181,9 +159,7 @@
     "name": "Правда",
     "url": "http://pravda.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.pravda.ru/export.xml",
@@ -196,9 +172,7 @@
     "name": "FLB.ru",
     "url": "http://flb.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://flb.ru/rss/",
@@ -211,9 +185,7 @@
     "name": "ПОЛИТ.РУ",
     "url": "http://polit.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://polit.ru/feeds",
@@ -226,9 +198,7 @@
     "name": "Фонтанка",
     "url": "http://fontanka.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.fontanka.ru/fontanka.rss",
@@ -241,9 +211,7 @@
     "name": "Пятый канал",
     "url": "http://5-tv.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.5-tv.ru/news/rss/",
@@ -256,9 +224,7 @@
     "name": "ТВ Центр",
     "url": "http://tvc.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://www.tvc.ru/RSS/yandex.aspx",
@@ -271,9 +237,7 @@
     "name": "BBC",
     "url": "http://www.bbc.com/russian/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://feeds.bbci.co.uk/russian/rss.xml",
@@ -286,9 +250,7 @@
     "name": "Новая Газета",
     "url": "http://www.novayagazeta.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://content.novayagazeta.ru/rss/all.xml",
@@ -301,9 +263,7 @@
     "name": "ИноСМИ",
     "url": "http://inosmi.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://inosmi.ru/export/rss2/index.xml",
@@ -316,9 +276,7 @@
     "name": "РАПСИ",
     "url": "http://rapsinews.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://rapsinews.ru/export/rss2/index.xml",
@@ -331,9 +289,7 @@
     "name": "Glomu.Ru",
     "url": "http://glomu.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://glomu.ru/feed/",
@@ -346,9 +302,7 @@
     "name": "EG.RU",
     "url": "http://eg.ru/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.eg.ru/rss.xml",
@@ -361,9 +315,7 @@
     "name": "Чемпионат.com",
     "url": "http://championat.com/",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.championat.com/rss/news/",
@@ -376,9 +328,7 @@
     "name": "RIA",
     "url": "http://ria.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://rsport.ria.ru/export/rss2/index.xml",
@@ -391,9 +341,7 @@
     "name": "Утро",
     "url": "http://utro.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://utro.ru/export/rss2.xml",
@@ -406,9 +354,7 @@
     "name": "Радио Свобода",
     "url": "http://svoboda.org",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.svoboda.org/rss/",
@@ -421,9 +367,7 @@
     "name": "Известия",
     "url": "http://iz.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://iz.ru/xml/rss/all.xml",
@@ -436,9 +380,7 @@
     "name": "ГОЛОС АМЕРИКИ",
     "url": "http://golos-ameriki.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://www.golos-ameriki.ru/rss/?count=50",
@@ -451,9 +393,7 @@
     "name": "Россия.tv",
     "url": "http://russia.tv",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://russia.tv/rss/yandex",
@@ -466,9 +406,7 @@
     "name": "Домашний",
     "url": "http://domashniy.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://domashniy.ru/rss/",
@@ -481,9 +419,7 @@
     "name": "ЗВЕЗДА",
     "url": "http://tvzvezda.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://tvzvezda.ru/export/rss.xml",
@@ -496,9 +432,7 @@
     "name": "Euronews",
     "url": "http://ru.euronews.com",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://feeds.feedburner.com/euronews/ru/home",
@@ -511,9 +445,7 @@
     "name": "Govoru.com",
     "url": "http://govoru.com",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://govoru.com/feed/",
@@ -526,9 +458,7 @@
     "name": "Медиазона",
     "url": "http://zona.media",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://zona.media/rss/news.php",
@@ -541,9 +471,7 @@
     "name": "Эхо Москвы",
     "url": "http://echo.msk.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://echo.msk.ru/interview/rss-fulltext.xml",
@@ -556,9 +484,7 @@
     "name": "Republic",
     "url": "http://republic.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "https://republic.ru/export/all.xml",
@@ -571,9 +497,7 @@
     "name": "Русская планета",
     "url": "http://rusplt.ru",
     "country": "ru",
-    "languages": [
-      "ru"
-    ],
+    "languages": ["ru"],
     "feeds": [
       {
         "url": "http://rusplt.ru/index/new.rss",

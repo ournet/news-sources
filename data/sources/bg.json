@@ -4,9 +4,7 @@
     "name": "DNES.BG",
     "url": "http://www.dnes.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://www.dnes.bg/rss.php?today",
@@ -16,12 +14,10 @@
   },
   {
     "id": "dariknews",
-    "name": "DarikNews",
+    "name": "DarikNews.bg",
     "url": "http://dariknews.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://dariknews.bg/rss.php",
@@ -31,12 +27,10 @@
   },
   {
     "id": "investor",
-    "name": "INVESTOR",
+    "name": "INVESTOR.bg",
     "url": "http://investor.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.investor.bg/news/rss/last/",
@@ -49,9 +43,7 @@
     "name": "ECON.bg",
     "url": "http://econ.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://econ.bg/Rss_l.rss.html",
@@ -61,12 +53,10 @@
   },
   {
     "id": "dnevnik",
-    "name": "Дневник",
+    "name": "Дневник.bg",
     "url": "http://dnevnik.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.dnevnik.bg/rss/",
@@ -76,12 +66,10 @@
   },
   {
     "id": "trud",
-    "name": "Труд",
+    "name": "Труд.bg",
     "url": "http://trud.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://trud.bg/feed/",
@@ -91,12 +79,10 @@
   },
   {
     "id": "24chasa",
-    "name": "24часа",
+    "name": "24часа.bg",
     "url": "http://24chasa.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.24chasa.bg/Rss",
@@ -106,12 +92,10 @@
   },
   {
     "id": "inews",
-    "name": "iNEWS",
+    "name": "iNEWS.bg",
     "url": "http://inews.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://inews.bg/_l.osr.html",
@@ -124,9 +108,7 @@
     "name": "VESTI.bg",
     "url": "http://vesti.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.vesti.bg/rss.php",
@@ -139,9 +121,7 @@
     "name": "GONG.bg",
     "url": "http://gong.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://gong.bg/rss",
@@ -154,9 +134,7 @@
     "name": "EkipNews.com",
     "url": "http://ekipnews.com",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://ekipnews.com/feed/",
@@ -169,9 +147,7 @@
     "name": "Nova.bg",
     "url": "http://nova.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://nova.bg/rss/latest",
@@ -184,9 +160,7 @@
     "name": "BNEWS.bg",
     "url": "http://bnews.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://www.bnews.bg/rss",
@@ -199,9 +173,7 @@
     "name": "BLife.bg",
     "url": "http://blife.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://blife.bg/rss.php",
@@ -214,9 +186,7 @@
     "name": "BSport.bg",
     "url": "http://bsport.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://bsport.bg/mediarss.php",
@@ -229,9 +199,7 @@
     "name": "Actualno.com",
     "url": "http://actualno.com",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.actualno.com/rss",
@@ -244,9 +212,7 @@
     "name": "Economic.bg",
     "url": "http://economic.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.economic.bg/bg/rss.xml",
@@ -259,9 +225,7 @@
     "name": "Aspekti.info",
     "url": "http://aspekti.info",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://www.aspekti.info/rss/bg/news/",
@@ -274,9 +238,7 @@
     "name": "FrogNews.bg",
     "url": "http://frognews.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://rss.frognews.bg/0/rss.xml",
@@ -289,9 +251,7 @@
     "name": "КРОСС",
     "url": "http://cross.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://www.cross.bg/rss.php",
@@ -304,9 +264,7 @@
     "name": "Jenite.bg",
     "url": "http://jenite.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://jenite.bg/Rss_l.osr_a.last.html",
@@ -319,9 +277,7 @@
     "name": "Mediapool.bg",
     "url": "http://mediapool.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.mediapool.bg/rss",
@@ -334,9 +290,7 @@
     "name": "Obshtestvo.net",
     "url": "http://obshtestvo.net",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://obshtestvo.net/feed/",
@@ -349,9 +303,7 @@
     "name": "Bivol.bg",
     "url": "http://bivol.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://bivol.bg/feed",
@@ -364,9 +316,7 @@
     "name": "BTA",
     "url": "http://bta.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://www.bta.bg/bg/rss/free",
@@ -379,9 +329,7 @@
     "name": "News.bg",
     "url": "http://news.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://news.bg/services/rss/1",
@@ -394,9 +342,7 @@
     "name": "Радио Сливен",
     "url": "http://radio.slivenbg.net",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://radio.slivenbg.net/index.php/curious?format=feed&type=rss",
@@ -417,9 +363,7 @@
     "name": "Dnes.Dir.bg",
     "url": "http://dnes.dir.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://dnes.dir.bg/support/cat_rss.php?section=all",
@@ -432,9 +376,7 @@
     "name": "Profit.bg",
     "url": "http://profit.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://profit.bg/rss/profitrss/rss_news_category_74.xml",
@@ -447,9 +389,7 @@
     "name": "Sportal.bg",
     "url": "http://sportal.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.sportal.bg/uploads/rss_category_0.xml",
@@ -462,9 +402,7 @@
     "name": "HotNews.bg",
     "url": "http://hotnews.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://hotnews.bg/rss.php",
@@ -477,9 +415,7 @@
     "name": "LiveNews.bg",
     "url": "http://livenews.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://www.livenews.bg/index.php?format=feed&type=rss",
@@ -492,9 +428,7 @@
     "name": "Webcafe.bg",
     "url": "http://webcafe.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://feeds.feedburner.com/webcafebg",
@@ -507,9 +441,7 @@
     "name": "DartsNews.bg",
     "url": "http://dartsnews.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://dartsnews.bg/feed/",
@@ -522,9 +454,7 @@
     "name": "Novsport.com",
     "url": "http://novsport.com",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "http://www.novsport.com/rss_news.xml",
@@ -537,9 +467,7 @@
     "name": "Tialoto.bg",
     "url": "http://tialoto.bg",
     "country": "bg",
-    "languages": [
-      "bg"
-    ],
+    "languages": ["bg"],
     "feeds": [
       {
         "url": "https://www.tialoto.bg/rss/show/zvezdi/",

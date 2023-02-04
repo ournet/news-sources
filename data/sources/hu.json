@@ -1,12 +1,10 @@
 [
   {
     "id": "index",
-    "name": "Index",
+    "name": "Index.hu",
     "url": "http://index.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://index.hu/24ora/rss/",
@@ -16,12 +14,10 @@
   },
   {
     "id": "hwsw",
-    "name": "HWSW",
+    "name": "HWSW.hu",
     "url": "http://hwsw.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.hwsw.hu/xml/latest_news_rss.xml",
@@ -31,12 +27,10 @@
   },
   {
     "id": "kisalfold",
-    "name": "Kisalfold",
+    "name": "Kisalfold.hu",
     "url": "http://kisalfold.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.kisalfold.hu/_rss.php?fid=46",
@@ -46,12 +40,10 @@
   },
   {
     "id": "bama",
-    "name": "BAMA",
+    "name": "BAMA.hu",
     "url": "http://bama.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.bama.hu/feed/",
@@ -61,12 +53,10 @@
   },
   {
     "id": "origo",
-    "name": "ORIGO",
+    "name": "ORIGO.hu",
     "url": "http://origo.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.origo.hu/contentpartner/rss/origoall/origo.xml",
@@ -76,12 +66,10 @@
   },
   {
     "id": "life",
-    "name": "Life",
+    "name": "Life.hu",
     "url": "http://life.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.life.hu/contentpartner/rss/lifehu/life.xml",
@@ -91,12 +79,10 @@
   },
   {
     "id": "investor",
-    "name": "Investor",
+    "name": "Investor.hu",
     "url": "http://investor.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.investor.hu/contentpartner/rss/investor.xml",
@@ -109,9 +95,7 @@
     "name": "ma.hu",
     "url": "http://ma.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.ma.hu/rss/news",
@@ -121,12 +105,10 @@
   },
   {
     "id": "nepszava",
-    "name": "Népszava",
+    "name": "Népszava.hu",
     "url": "http://nepszava.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://nepszava.hu/feed",
@@ -136,12 +118,10 @@
   },
   {
     "id": "beol",
-    "name": "BEOL",
+    "name": "BEOL.hu",
     "url": "http://beol.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.beol.hu/feed/",
@@ -151,12 +131,10 @@
   },
   {
     "id": "infostart",
-    "name": "InfoStart",
+    "name": "InfoStart.hu",
     "url": "http://infostart.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://infostart.hu/24ora/rss",
@@ -166,12 +144,10 @@
   },
   {
     "id": "pecsinapilap",
-    "name": "Pécsinapilap",
+    "name": "Pécsinapilap.hu",
     "url": "http://pecsinapilap.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.pecsinapilap.hu/rss",
@@ -181,12 +157,10 @@
   },
   {
     "id": "alfahir",
-    "name": "Alfahír",
+    "name": "Alfahír.hu",
     "url": "http://alfahir.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://alfahir.hu/rss.xml",
@@ -196,12 +170,10 @@
   },
   {
     "id": "portfolio",
-    "name": "Portfolio",
+    "name": "Portfolio.hu",
     "url": "http://portfolio.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.portfolio.hu/rss/cikkek/all.xml",
@@ -211,12 +183,10 @@
   },
   {
     "id": "velvet",
-    "name": "Velvet",
+    "name": "Velvet.hu",
     "url": "http://velvet.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://velvet.hu/24ora/rss/",
@@ -226,12 +196,10 @@
   },
   {
     "id": "divany",
-    "name": "Dívány",
+    "name": "Dívány.hu",
     "url": "http://divany.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://divany.hu/24ora/rss/",
@@ -244,9 +212,7 @@
     "name": "24.hu",
     "url": "http://24.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://24.hu/feed/",
@@ -259,9 +225,7 @@
     "name": "hvg.hu",
     "url": "http://hvg.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://hvg.hu/rss",
@@ -271,12 +235,10 @@
   },
   {
     "id": "sonline",
-    "name": "SONLINE",
+    "name": "SONLINE.hu",
     "url": "http://sonline.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.sonline.hu/feed/",
@@ -289,9 +251,7 @@
     "name": "Válasz.hu",
     "url": "http://valasz.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://valasz.hu/rss/",
@@ -304,9 +264,7 @@
     "name": "Delmagyar.hu",
     "url": "http://delmagyar.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.delmagyar.hu/_rss.php?fid=1",
@@ -319,9 +277,7 @@
     "name": "Kitekintő.hu",
     "url": "http://kitekinto.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://kitekinto.hu/feed/",
@@ -334,9 +290,7 @@
     "name": "168ora.hu",
     "url": "http://168ora.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://168ora.hu/rss",
@@ -346,12 +300,10 @@
   },
   {
     "id": "bitport",
-    "name": "Bitport",
+    "name": "Bitport.hu",
     "url": "http://bitport.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://bitport.hu/rss.php",
@@ -364,9 +316,7 @@
     "name": "TV2.hu",
     "url": "http://tv2.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://tv2.hu/rss.php",
@@ -379,9 +329,7 @@
     "name": "ATV.hu",
     "url": "http://atv.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.atv.hu/all",
@@ -394,9 +342,7 @@
     "name": "Hirado.hu",
     "url": "http://hirado.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.hirado.hu/hirado.aspx",
@@ -409,9 +355,7 @@
     "name": "Magyar Idők",
     "url": "http://magyaridok.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://magyaridok.hu/feed/",
@@ -424,9 +368,7 @@
     "name": "VS.hu",
     "url": "http://vs.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://vs.hu/feed",
@@ -439,9 +381,7 @@
     "name": "Hetek.hu",
     "url": "http://hetek.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.hetek.hu/friss",
@@ -454,9 +394,7 @@
     "name": "Magyar Narancs",
     "url": "http://magyarnarancs.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://magyarnarancs.hu/rss/",
@@ -469,9 +407,7 @@
     "name": "Napi.hu",
     "url": "http://napi.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.napi.hu/feed/mindencikk.xml",
@@ -484,9 +420,7 @@
     "name": "NemzetiSport.hu",
     "url": "http://nemzetisport.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.nemzetisport.hu/rss/mindencsatorna",
@@ -499,9 +433,7 @@
     "name": "Nol.hu",
     "url": "http://nol.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://nol.hu/rss/mindencsatorna",
@@ -514,9 +446,7 @@
     "name": "Világgazdaság",
     "url": "http://vg.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.vg.hu/feed/",
@@ -529,9 +459,7 @@
     "name": "Blikk.hu",
     "url": "http://blikk.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.blikk.hu/rss/blikk",
@@ -544,9 +472,7 @@
     "name": "BorsOnline.hu",
     "url": "http://borsonline.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "http://www.borsonline.hu/rss",
@@ -559,9 +485,7 @@
     "name": "KEMMA.hu",
     "url": "http://kemma.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.kemma.hu/feed/",
@@ -571,12 +495,10 @@
   },
   {
     "id": "naplo",
-    "name": "Napló",
+    "name": "Napló.hu",
     "url": "http://naplo.hu",
     "country": "hu",
-    "languages": [
-      "hu"
-    ],
+    "languages": ["hu"],
     "feeds": [
       {
         "url": "https://www.naplo.hu/feed",

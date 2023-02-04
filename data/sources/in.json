@@ -200,7 +200,7 @@
   },
   {
     "id": "ndtv",
-    "name": "NDTV",
+    "name": "NDTV.com",
     "url": "http://www.ndtv.com/",
     "country": "in",
     "languages": ["en"],
@@ -213,7 +213,7 @@
   },
   {
     "id": "firstpost",
-    "name": "FirstPost",
+    "name": "FirstPost.com",
     "url": "http://www.firstpost.com/",
     "country": "in",
     "languages": ["en"],
@@ -226,7 +226,7 @@
   },
   {
     "id": "bollywoodlife",
-    "name": "BollywoodLife",
+    "name": "BollywoodLife.com",
     "url": "http://www.bollywoodlife.com/",
     "country": "in",
     "languages": ["en"],
@@ -239,7 +239,7 @@
   },
   {
     "id": "news18",
-    "name": "News18",
+    "name": "News18.com",
     "url": "http://www.news18.com/",
     "country": "in",
     "languages": ["en"],
@@ -284,7 +284,7 @@
   },
   {
     "id": "deccanchronicle",
-    "name": "DeccanChronicle",
+    "name": "DeccanChronicle.com",
     "url": "http://www.deccanchronicle.com/",
     "country": "in",
     "languages": ["en"],
@@ -297,7 +297,7 @@
   },
   {
     "id": "oneindia",
-    "name": "OneIndia",
+    "name": "OneIndia.com",
     "url": "http://www.oneindia.com/",
     "country": "in",
     "languages": ["en"],
@@ -310,7 +310,7 @@
   },
   {
     "id": "financialexpress",
-    "name": "FinancialExpress",
+    "name": "FinancialExpress.com",
     "url": "http://www.financialexpress.com/",
     "country": "in",
     "languages": ["en"],
@@ -336,7 +336,7 @@
   },
   {
     "id": "thequint",
-    "name": "TheQuint",
+    "name": "TheQuint.com",
     "url": "http://www.thequint.com",
     "country": "in",
     "languages": ["en"],
@@ -349,7 +349,7 @@
   },
   {
     "id": "outlookindia",
-    "name": "OutlookIndia",
+    "name": "OutlookIndia.com",
     "url": "http://www.outlookindia.com",
     "country": "in",
     "languages": ["en"],
