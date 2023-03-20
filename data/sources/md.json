@@ -5,7 +5,12 @@
     "url": "http://protv.md",
     "country": "md",
     "languages": ["ro"],
-    "feeds": []
+    "feeds": [
+      {
+        "url": "https://news.click.md/rss-proxy/protv.md.xml",
+        "language": "ro"
+      }
+    ]
   },
   {
     "id": "agora",
@@ -15,7 +20,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://agora.md/rss/news",
+        "url": "https://api.agora.md/rss",
         "language": "ro"
       }
     ]
@@ -41,7 +46,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://tv8.md/feed",
+        "url": "https://news.click.md/rss-proxy/tv8.md.xml",
         "language": "ro"
       }
     ]
