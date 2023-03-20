@@ -31,7 +31,12 @@
     "url": "http://www.agerpres.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": []
+    "feeds": [
+      {
+        "url": "https://news.ournet.ro/rss-proxy/agerpres.ro.xml",
+        "language": "ro"
+      }
+    ]
   },
   {
     "id": "antena3",
