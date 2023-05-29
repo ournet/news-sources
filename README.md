@@ -32,6 +32,7 @@ Data is cached.
 - `it` - Italy
 - `hu` - Hungary
 - `cz` - Czech Republic
+- `es` - Spain
 
 ## Contributing
 

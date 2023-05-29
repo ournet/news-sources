@@ -1,0 +1,406 @@
+[
+  {
+    "id": "elpais.com",
+    "name": "ElPais",
+    "url": "https://elpais.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "libertaddigital.com",
+    "name": "LibertadDigital",
+    "url": "https://www.libertaddigital.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.libertaddigital.com/rss.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "eldiario.es",
+    "name": "ElDiario",
+    "url": "https://www.eldiario.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.eldiario.es/rss/",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "larazon.es",
+    "name": "La Razón",
+    "url": "https://www.larazon.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.larazon.es/?outputType=xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "deia.eus",
+    "name": "Deia",
+    "url": "https://www.deia.eus/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.deia.eus/rss/",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "es.euronews",
+    "name": "Euronews",
+    "url": "https://es.euronews.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://es.euronews.com/rss?format=mrss&level=theme&name=news",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "lavanguardia.com",
+    "name": "LaVanguardia",
+    "url": "https://www.lavanguardia.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.lavanguardia.com/rss/home.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "lavanguardia.com",
+    "name": "LaVanguardia",
+    "url": "https://www.lavanguardia.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.lavanguardia.com/rss/home.xml",
+        "language": "es"
+      },
+      {
+        "url": "https://www.lavanguardia.com/rss/internacional.xml",
+        "language": "es"
+      },
+      {
+        "url": "https://www.lavanguardia.com/rss/politica.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "elperiodico.com",
+    "name": "ElPeriodico",
+    "url": "https://www.elperiodico.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.elperiodico.com/es/rss/ultimas-noticias/rss.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "elespanol.com",
+    "name": "ElEspanol",
+    "url": "https://www.elespanol.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.elespanol.com/rss/",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "eleconomista.es",
+    "name": "ElEconomista",
+    "url": "https://www.eleconomista.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.eleconomista.es/rss/rss-seleccion-ee.php",
+        "language": "es"
+      },
+      {
+        "url": "https://www.eleconomista.es/rss/rss-economia.php",
+        "language": "es"
+      },
+      {
+        "url": "https://www.eleconomista.es/rss/rss-category.php?category=tecnologia",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "laverdad.es",
+    "name": "Laverdad",
+    "url": "https://www.laverdad.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.laverdad.es/rss/2.0/portada/",
+        "language": "es"
+      },
+      {
+        "url": "https://www.laverdad.es/rss/2.0/?section=ultima-hora",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "epe.es",
+    "name": "El Periódico",
+    "url": "https://www.epe.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.epe.es/es/rss/rss_portada.xml",
+        "language": "es"
+      },
+      {
+        "url": "https://www.epe.es/es/rss/actualidad/rss.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "idealista.com",
+    "name": "idealista.com",
+    "url": "https://www.idealista.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.idealista.com/news/rss/v2/latest-news.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "scherzo.es",
+    "name": "Scherzo.es",
+    "url": "https://scherzo.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://scherzo.es/feed/",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "telecinco.es",
+    "name": "Telecinco.es",
+    "url": "https://www.telecinco.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.telecinco.es/rss.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "marca.com",
+    "name": "MARCA.com",
+    "url": "https://www.marca.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://e00-marca.uecdn.es/rss/portada.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "theobjective.com",
+    "name": "The Objective",
+    "url": "https://theobjective.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://theobjective.com/feed/",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "businessinsider.es",
+    "name": "BusinessInsider.es",
+    "url": "https://www.businessinsider.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.businessinsider.es/rss",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "es.beincrypto.com",
+    "name": "beincrypto.com",
+    "url": "https://es.beincrypto.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://es.beincrypto.com/feed/",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "sport.es",
+    "name": "Sport.es",
+    "url": "https://www.sport.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.sport.es/es/rss/last-news/news.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "mundodeportivo.com",
+    "name": "Urban Tecno",
+    "url": "https://www.mundodeportivo.com/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.mundodeportivo.com/urbantecno/feed",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "rtve.es",
+    "name": "rtve.es",
+    "url": "https://www.rtve.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://api2.rtve.es/rss/temas_noticias.xml",
+        "language": "es"
+      },
+      {
+        "url": "http://api2.rtve.es/rss/temas_espana.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "elmundo.es",
+    "name": "ElMundo.es",
+    "url": "https://www.elmundo.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://e00-elmundo.uecdn.es/rss/portada.xml",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "ideal.es",
+    "name": "Ideal.es",
+    "url": "https://www.ideal.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.ideal.es/rss/2.0/portada/",
+        "language": "es"
+      },
+      {
+        "url": "https://www.ideal.es/rss/2.0/?section=ultima-hora",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "laregion.es",
+    "name": "LaRegion.es",
+    "url": "https://www.laregion.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.laregion.es/rss",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "hoy.es",
+    "name": "Hoy.es",
+    "url": "https://www.hoy.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.hoy.es/rss/2.0/portada/",
+        "language": "es"
+      },
+      {
+        "url": "https://www.hoy.es/rss/2.0/?section=ultima-hora",
+        "language": "es"
+      }
+    ]
+  },
+  {
+    "id": "canarias7.es",
+    "name": "Canarias7.es",
+    "url": "https://www.canarias7.es/",
+    "country": "es",
+    "languages": ["es"],
+    "feeds": [
+      {
+        "url": "https://www.canarias7.es/rss/2.0/portada/",
+        "language": "es"
+      },
+      {
+        "url": "https://www.canarias7.es/rss/2.0/?section=ultima-hora",
+        "language": "es"
+      }
+    ]
+  }
+]
