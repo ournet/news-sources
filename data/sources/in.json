@@ -7,75 +7,23 @@
     "languages": ["en"],
     "feeds": [
       {
-        "url": "https://www.hindustantimes.com/rss/topnews/rssfeed.xml",
+        "url": "https://www.hindustantimes.com/feeds/rss/latest/rssfeed.xml",
         "language": "en"
       },
       {
-        "url": "https://www.hindustantimes.com/rss/world/rssfeed.xml",
+        "url": "https://www.hindustantimes.com/feeds/rss/india/rssfeed.xml",
         "language": "en"
       },
       {
-        "url": "https://www.hindustantimes.com/rss/india/rssfeed.xml",
+        "url": "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml",
         "language": "en"
       },
       {
-        "url": "https://www.hindustantimes.com/rss/opinion/rssfeed.xml",
+        "url": "https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml",
         "language": "en"
       },
       {
-        "url": "https://www.hindustantimes.com/rss/analysis/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/columns/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/editorials/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/sports/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/entertainment/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/bollywood/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/hollywood/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/tech/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/tech-gadgets/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/business/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/tech-news/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/art-culture/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/health-fitness/rssfeed.xml",
-        "language": "en"
-      },
-      {
-        "url": "https://www.hindustantimes.com/rss/lifestyle/rssfeed.xml",
+        "url": "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml",
         "language": "en"
       }
     ]
@@ -99,7 +47,16 @@
     "url": "http://indianexpress.com/",
     "country": "in",
     "languages": ["en"],
-    "feeds": []
+    "feeds": [
+      {
+        "url": "https://indianexpress.com/section/opinion/feed/",
+        "language": "en"
+      },
+      {
+        "url": "https://indianexpress.com/section/sports/feed/",
+        "language": "en"
+      }
+    ]
   },
   {
     "id": "timesofindia",
@@ -219,7 +176,35 @@
     "languages": ["en"],
     "feeds": [
       {
-        "url": "https://www.firstpost.com/feed",
+        "url": "https://www.firstpost.com/rss/world.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.firstpost.com/rss/india.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.firstpost.com/rss/politics.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.firstpost.com/rss/entertainment.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.firstpost.com/rss/opinion.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.firstpost.com/rss/business.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.firstpost.com/rss/health.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.firstpost.com/rss/tech.xml",
         "language": "en"
       }
     ]
@@ -244,10 +229,6 @@
     "country": "in",
     "languages": ["en"],
     "feeds": [
-      {
-        "url": "https://www.news18.com/rss/books.xml",
-        "language": "en"
-      },
       {
         "url": "https://www.news18.com/rss/hockey.xml",
         "language": "en"
@@ -288,12 +269,7 @@
     "url": "http://www.deccanchronicle.com/",
     "country": "in",
     "languages": ["en"],
-    "feeds": [
-      {
-        "url": "https://www.deccanchronicle.com/rss_feed/",
-        "language": "en"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "oneindia",
@@ -303,7 +279,15 @@
     "languages": ["en"],
     "feeds": [
       {
-        "url": "https://www.oneindia.com/rss/news-fb.xml",
+        "url": "https://www.oneindia.com/rss/feeds/oneindia-fb.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.oneindia.com/rss/feeds/news-international-fb.xml",
+        "language": "en"
+      },
+      {
+        "url": "https://www.oneindia.com/rss/feeds/news-india-fb.xml",
         "language": "en"
       }
     ]
@@ -314,12 +298,7 @@
     "url": "http://www.financialexpress.com/",
     "country": "in",
     "languages": ["en"],
-    "feeds": [
-      {
-        "url": "https://www.financialexpress.com/feed/",
-        "language": "en"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "scroll.in",
@@ -355,15 +334,57 @@
     "languages": ["en"],
     "feeds": [
       {
-        "url": "https://www.outlookindia.com/rss/main/website",
+        "url": "https://www.outlookindia.com/rss/",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "id": "tribuneindia.com",
+    "name": "TribuneIndia",
+    "url": "https://www.tribuneindia.com",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://www.tribuneindia.com/rss/feed?catId=0",
         "language": "en"
       },
       {
-        "url": "https://www.outlookindia.com/rss/main/magazine",
+        "url": "https://www.tribuneindia.com/rss/feed?catId=42",
         "language": "en"
       },
       {
-        "url": "https://www.outlookindia.com/rss/main/blog",
+        "url": "https://www.tribuneindia.com/rss/feed?catId=57",
+        "language": "en"
+      },
+      {
+        "url": "https://www.tribuneindia.com/rss/feed?catId=19",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "id": "abplive.com",
+    "name": "abplive",
+    "url": "https://www.tribuneindia.com",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://news.abplive.com/home/feed",
+        "language": "en"
+      },
+      {
+        "url": "https://news.abplive.com/news/india/feed",
+        "language": "en"
+      },
+      {
+        "url": "https://news.abplive.com/news/world/feed",
+        "language": "en"
+      },
+      {
+        "url": "https://news.abplive.com/business/feed",
         "language": "en"
       }
     ]
