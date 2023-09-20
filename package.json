@@ -1,6 +1,6 @@
 {
   "name": "news-sources",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "json news-sources",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",

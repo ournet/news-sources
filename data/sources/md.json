@@ -48,6 +48,10 @@
       {
         "url": "https://news.click.md/rss-proxy/tv8.md.xml",
         "language": "ro"
+      },
+      {
+        "url": "https://news.click.md/rss-proxy/tv8.md-ru.xml",
+        "language": "ru"
       }
     ]
   },
@@ -227,6 +231,10 @@
       {
         "url": "https://www.jurnal.md/ro/rss/all",
         "language": "ro"
+      },
+      {
+        "url": "https://news.click.md/rss-proxy/jurnal.md-ru.xml",
+        "language": "ru"
       }
     ]
   },
@@ -384,6 +392,19 @@
     ]
   },
   {
+    "id": "Rupor.md",
+    "name": "Rupor.md",
+    "url": "http://www.rupor.md/",
+    "country": "md",
+    "languages": ["ru"],
+    "feeds": [
+      {
+        "url": "https://rupor.md/feed/",
+        "language": "ru"
+      }
+    ]
+  },
+  {
     "id": "shok",
     "name": "Shok.md",
     "url": "http://shok.md/",
@@ -422,6 +443,10 @@
       {
         "url": "https://timpul.md/feed",
         "language": "ro"
+      },
+      {
+        "url": "https://timpul.md/language/ru/feed",
+        "language": "ru"
       }
     ]
   },
@@ -443,6 +468,10 @@
       {
         "url": "https://tribuna.md/feed/",
         "language": "ro"
+      },
+      {
+        "url": "https://tribuna.md/ru/feed/",
+        "language": "ru"
       }
     ]
   },
@@ -464,11 +493,15 @@
     "name": "Zdg.md",
     "url": "http://www.zdg.md/",
     "country": "md",
-    "languages": ["ro"],
+    "languages": ["ro", "ru"],
     "feeds": [
       {
         "url": "https://www.zdg.md/feed/",
         "language": "ro"
+      },
+      {
+        "url": "https://news.click.md/rss-proxy/zdg.md-ru.xml",
+        "language": "ru"
       }
     ]
   },
@@ -656,6 +689,10 @@
       {
         "url": "https://ava.md/feed/",
         "language": "ru"
+      },
+      {
+        "url": "https://news.click.md/rss-proxy/ava.md.xml",
+        "language": "ru"
       }
     ]
   },
@@ -690,12 +727,7 @@
     "url": "http://www.newsru.md",
     "country": "md",
     "languages": ["ru"],
-    "feeds": [
-      {
-        "url": "http://newsru.md/feed/rss.nr",
-        "language": "ru"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "n4.md",
