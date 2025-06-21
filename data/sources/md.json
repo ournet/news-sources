@@ -592,12 +592,7 @@
     "url": "http://www.vesti.md/",
     "country": "md",
     "languages": ["ru"],
-    "feeds": [
-      {
-        "url": "https://www.vesti.md/rss/news.xml",
-        "language": "ru"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "gagauznews",
@@ -738,6 +733,179 @@
     "feeds": [
       {
         "url": "https://n4.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "veridica-md",
+    "name": "Veridica.md",
+    "url": "https://veridica.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://www.veridica.md/feeds",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "stiripesurse-md",
+    "name": "Stiripesurse.md",
+    "url": "https://stiripesurse.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://stiripesurse.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "zugo-md",
+    "name": "Zugo.md",
+    "url": "https://zugo.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://zugo.md/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "newsmaker-md",
+    "name": "Newsmaker.md",
+    "url": "https://newsmaker.md",
+    "country": "md",
+    "languages": ["ro", "ru"],
+    "feeds": [
+      {
+        "url": "https://newsmaker.md/ro/feed",
+        "language": "ro"
+      },
+      {
+        "url": "https://newsmaker.md/ru/feed",
+        "language": "ru"
+      }
+    ]
+  },
+  {
+    "id": "info1-md",
+    "name": "Info1.md",
+    "url": "https://info1.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://info1.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "nordinfo-md",
+    "name": "Nordinfo.md",
+    "url": "https://nordinfo.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://nordinfo.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "ziua-md",
+    "name": "Ziua.md",
+    "url": "https://ziua.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://ziua.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "libertv-md",
+    "name": "Libertv.md",
+    "url": "https://libertv.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://libertv.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "provincial-md",
+    "name": "Provincial.md",
+    "url": "http://provincial.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "http://provincial.md/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "tvn-md",
+    "name": "TVN.md",
+    "url": "https://tvn.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://tvn.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "unica-md",
+    "name": "Unica.md",
+    "url": "https://unica.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://unica.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "telegraph-md",
+    "name": "Telegraph.md",
+    "url": "https://telegraph.md",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://telegraph.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "unghiul-com",
+    "name": "Unghiul.com",
+    "url": "https://unghiul.com",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://unghiul.com/feed/",
         "language": "ro"
       }
     ]
