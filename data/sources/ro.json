@@ -594,5 +594,22 @@
         "language": "ro"
       }
     ]
+  },
+  {
+    "id": "ziare.com",
+    "name": "Ziare.com",
+    "url": "https://ziare.com/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://ziare.com/rss/actualitate.xml",
+        "language": "ro"
+      },
+      {
+        "url": "https://ziare.com/rss/breaking_news.xml",
+        "language": "ro"
+      }
+    ]
   }
 ]

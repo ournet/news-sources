@@ -506,5 +506,18 @@
         "language": "cs"
       }
     ]
+  },
+  {
+    "id": "denikreferendum",
+    "name": "DenikReferendum",
+    "url": "https://denikreferendum.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://denikreferendum.cz/rss.xml",
+        "language": "cs"
+      }
+    ]
   }
 ]
