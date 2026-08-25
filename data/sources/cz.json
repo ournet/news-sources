@@ -454,5 +454,57 @@
         "language": "cs"
       }
     ]
+  },
+  {
+    "id": "seznamzpravy",
+    "name": "SeznamZpravy",
+    "url": "https://www.seznamzpravy.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.seznamzpravy.cz/rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "respekt",
+    "name": "Respekt",
+    "url": "https://www.respekt.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.respekt.cz/api/rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "forum24",
+    "name": "Forum24",
+    "url": "https://www.forum24.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.forum24.cz/feed",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "info.cz",
+    "name": "Info.cz",
+    "url": "https://www.info.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.info.cz/rss",
+        "language": "cs"
+      }
+    ]
   }
 ]

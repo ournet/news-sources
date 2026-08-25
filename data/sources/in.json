@@ -379,5 +379,44 @@
         "language": "en"
       }
     ]
+  },
+  {
+    "id": "economictimes",
+    "name": "EconomicTimes",
+    "url": "https://economictimes.indiatimes.com/",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "id": "livemint",
+    "name": "LiveMint",
+    "url": "https://www.livemint.com/",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://www.livemint.com/rss/news",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "id": "deccanherald",
+    "name": "DeccanHerald",
+    "url": "https://www.deccanherald.com/",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://www.deccanherald.com/stories.rss",
+        "language": "en"
+      }
+    ]
   }
 ]

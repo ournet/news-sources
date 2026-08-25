@@ -454,5 +454,96 @@
         "language": "it"
       }
     ]
+  },
+  {
+    "id": "skytg24",
+    "name": "SkyTG24",
+    "url": "https://tg24.sky.it/",
+    "country": "it",
+    "languages": ["it"],
+    "feeds": [
+      {
+        "url": "https://tg24.sky.it/rss/tg24.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "open.online",
+    "name": "Open",
+    "url": "https://www.open.online/",
+    "country": "it",
+    "languages": ["it"],
+    "feeds": [
+      {
+        "url": "https://www.open.online/feed/",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "ilmanifesto.it",
+    "name": "IlManifesto",
+    "url": "https://ilmanifesto.it/",
+    "country": "it",
+    "languages": ["it"],
+    "feeds": [
+      {
+        "url": "https://ilmanifesto.it/feed",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "linkiesta.it",
+    "name": "Linkiesta",
+    "url": "https://www.linkiesta.it/",
+    "country": "it",
+    "languages": ["it"],
+    "feeds": [
+      {
+        "url": "https://www.linkiesta.it/feed/",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "internazionale.it",
+    "name": "Internazionale",
+    "url": "https://www.internazionale.it/",
+    "country": "it",
+    "languages": ["it"],
+    "feeds": [
+      {
+        "url": "https://www.internazionale.it/sitemaps/rss.xml",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "wired.it",
+    "name": "WiredItalia",
+    "url": "https://www.wired.it/",
+    "country": "it",
+    "languages": ["it"],
+    "feeds": [
+      {
+        "url": "https://www.wired.it/feed/rss",
+        "language": "it"
+      }
+    ]
+  },
+  {
+    "id": "tpi.it",
+    "name": "TPI",
+    "url": "https://www.tpi.it/",
+    "country": "it",
+    "languages": ["it"],
+    "feeds": [
+      {
+        "url": "https://www.tpi.it/feed/",
+        "language": "it"
+      }
+    ]
   }
 ]

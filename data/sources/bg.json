@@ -434,5 +434,44 @@
     "country": "bg",
     "languages": ["bg"],
     "feeds": []
+  },
+  {
+    "id": "capital.bg",
+    "name": "Capital",
+    "url": "https://www.capital.bg/",
+    "country": "bg",
+    "languages": ["bg"],
+    "feeds": [
+      {
+        "url": "https://www.capital.bg/rss/",
+        "language": "bg"
+      }
+    ]
+  },
+  {
+    "id": "fakti.bg",
+    "name": "Fakti",
+    "url": "https://fakti.bg/",
+    "country": "bg",
+    "languages": ["bg"],
+    "feeds": [
+      {
+        "url": "https://fakti.bg/feed",
+        "language": "bg"
+      }
+    ]
+  },
+  {
+    "id": "segabg.com",
+    "name": "Sega",
+    "url": "https://www.segabg.com/",
+    "country": "bg",
+    "languages": ["bg"],
+    "feeds": [
+      {
+        "url": "https://www.segabg.com/rss",
+        "language": "bg"
+      }
+    ]
   }
 ]

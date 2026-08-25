@@ -503,5 +503,96 @@
         "language": "ro"
       }
     ]
+  },
+  {
+    "id": "g4media",
+    "name": "G4Media.ro",
+    "url": "https://www.g4media.ro/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://www.g4media.ro/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "news-ro",
+    "name": "News.ro",
+    "url": "https://www.news.ro/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://www.news.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "profit-ro",
+    "name": "Profit.ro",
+    "url": "https://www.profit.ro/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://www.profit.ro/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "stiripesurse",
+    "name": "StiriPeSurse",
+    "url": "https://www.stiripesurse.ro/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://www.stiripesurse.ro/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "spotmedia",
+    "name": "Spotmedia.ro",
+    "url": "https://spotmedia.ro/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://spotmedia.ro/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "economedia",
+    "name": "Economedia.ro",
+    "url": "https://economedia.ro/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://economedia.ro/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "recorder",
+    "name": "Recorder.ro",
+    "url": "https://recorder.ro/",
+    "country": "ro",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://recorder.ro/feed/",
+        "language": "ro"
+      }
+    ]
   }
 ]

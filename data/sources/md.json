@@ -840,5 +840,83 @@
         "language": "ro"
       }
     ]
+  },
+  {
+    "id": "diez",
+    "name": "Diez.md",
+    "url": "https://diez.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://diez.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "moldova1",
+    "name": "Moldova 1",
+    "url": "https://moldova1.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://moldova1.md/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "anticoruptie",
+    "name": "Anticoruptie.md",
+    "url": "https://anticoruptie.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://anticoruptie.md/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "bani-md",
+    "name": "Bani.md",
+    "url": "https://bani.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://bani.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "nordnews",
+    "name": "NordNews.md",
+    "url": "https://nordnews.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://nordnews.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "sinteza",
+    "name": "Sinteza",
+    "url": "https://sinteza.org/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://sinteza.org/feed/",
+        "language": "ro"
+      }
+    ]
   }
 ]

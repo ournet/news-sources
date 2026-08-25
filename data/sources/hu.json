@@ -475,5 +475,70 @@
         "language": "hu"
       }
     ]
+  },
+  {
+    "id": "telex",
+    "name": "Telex.hu",
+    "url": "https://telex.hu/",
+    "country": "hu",
+    "languages": ["hu"],
+    "feeds": [
+      {
+        "url": "https://telex.hu/rss",
+        "language": "hu"
+      }
+    ]
+  },
+  {
+    "id": "444",
+    "name": "444.hu",
+    "url": "https://444.hu/",
+    "country": "hu",
+    "languages": ["hu"],
+    "feeds": [
+      {
+        "url": "https://444.hu/feed",
+        "language": "hu"
+      }
+    ]
+  },
+  {
+    "id": "magyarnemzet",
+    "name": "Magyar Nemzet",
+    "url": "https://magyarnemzet.hu/",
+    "country": "hu",
+    "languages": ["hu"],
+    "feeds": [
+      {
+        "url": "https://magyarnemzet.hu/feed/",
+        "language": "hu"
+      }
+    ]
+  },
+  {
+    "id": "mandiner",
+    "name": "Mandiner",
+    "url": "https://mandiner.hu/",
+    "country": "hu",
+    "languages": ["hu"],
+    "feeds": [
+      {
+        "url": "https://mandiner.hu/rss",
+        "language": "hu"
+      }
+    ]
+  },
+  {
+    "id": "valaszonline",
+    "name": "Valasz Online",
+    "url": "https://www.valaszonline.hu/",
+    "country": "hu",
+    "languages": ["hu"],
+    "feeds": [
+      {
+        "url": "https://www.valaszonline.hu/feed/",
+        "language": "hu"
+      }
+    ]
   }
 ]
