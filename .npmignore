@@ -7,3 +7,4 @@ package-lock.json
 types/scripts/
 lib/scripts/
 yarn.lock
+.playwright-mcp

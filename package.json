@@ -4,6 +4,7 @@
   "description": "json news-sources",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
+  "files": ["lib/*.js", "types/*.d.ts", "data", "CHANGELOG.md"],
   "scripts": {
     "pretest": "npm run clean && npm run tsc",
     "test": "ava --no-cache --verbose lib/**/*.test.js",
