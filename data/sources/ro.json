@@ -59,7 +59,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.business24.ro/rss/12h.xml",
+        "url": "https://business24.ro/rss/breaking_news.xml",
         "language": "ro"
       }
     ]
@@ -143,7 +143,12 @@
     "url": "http://www.dcnews.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": []
+    "feeds": [
+      {
+        "url": "https://www.dcnews.ro/rss",
+        "language": "ro"
+      }
+    ]
   },
   {
     "id": "dilemaveche",
@@ -172,12 +177,7 @@
     "url": "http://www.euractiv.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": [
-      {
-        "url": "https://www.euractiv.ro/rss.xml",
-        "language": "ro"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "evz",
@@ -185,7 +185,12 @@
     "url": "http://evz.ro/",
     "country": "ro",
     "languages": ["ro"],
-    "feeds": []
+    "feeds": [
+      {
+        "url": "https://evz.ro/feeds/all.xml",
+        "language": "ro"
+      }
+    ]
   },
   {
     "id": "green-report",
@@ -195,7 +200,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.green-report.ro/feed/",
+        "url": "https://green-report.ro/feed/?post_type=post",
         "language": "ro"
       }
     ]
@@ -312,7 +317,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.onlinesport.ro/rss/feed_last.xml",
+        "url": "https://www.onlinesport.ro/feed/",
         "language": "ro"
       }
     ]
@@ -338,7 +343,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "http://feeds.feedburner.com/prosport/zWZD",
+        "url": "https://www.prosport.ro/feed",
         "language": "ro"
       }
     ]
@@ -372,12 +377,12 @@
   {
     "id": "rfi",
     "name": "RFI.ro",
-    "url": "http://www.rfi.ro/",
+    "url": "https://www.rfi.fr/ro/",
     "country": "ro",
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://www.rfi.ro/rss.xml",
+        "url": "https://www.rfi.fr/ro/rss",
         "language": "ro"
       }
     ]
@@ -481,7 +486,7 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://img.wall-street.ro/rssfeeds/index.xml",
+        "url": "https://www.wall-street.ro/rssfeeds/index.xml",
         "language": "ro"
       }
     ]
