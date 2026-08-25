@@ -33,7 +33,7 @@
     "languages": ["hu"],
     "feeds": [
       {
-        "url": "https://www.kisalfold.hu/_rss.php?fid=46",
+        "url": "https://www.kisalfold.hu/feed/",
         "language": "hu"
       }
     ]
@@ -72,7 +72,7 @@
     "languages": ["hu"],
     "feeds": [
       {
-        "url": "http://www.life.hu/contentpartner/rss/lifehu/life.xml",
+        "url": "https://www.life.hu/publicapi/hu/rss/life/articles",
         "language": "hu"
       }
     ]
@@ -83,12 +83,7 @@
     "url": "http://investor.hu",
     "country": "hu",
     "languages": ["hu"],
-    "feeds": [
-      {
-        "url": "https://www.investor.hu/contentpartner/rss/investor.xml",
-        "language": "hu"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "ma",
@@ -252,12 +247,7 @@
     "url": "http://valasz.hu",
     "country": "hu",
     "languages": ["hu"],
-    "feeds": [
-      {
-        "url": "http://valasz.hu/rss/",
-        "language": "hu"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "delmagyar",
@@ -267,7 +257,7 @@
     "languages": ["hu"],
     "feeds": [
       {
-        "url": "https://www.delmagyar.hu/_rss.php?fid=1",
+        "url": "https://www.delmagyar.hu/feed/",
         "language": "hu"
       }
     ]
@@ -317,12 +307,7 @@
     "url": "http://tv2.hu",
     "country": "hu",
     "languages": ["hu"],
-    "feeds": [
-      {
-        "url": "https://tv2.hu/rss.php",
-        "language": "hu"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "atv",
@@ -332,7 +317,7 @@
     "languages": ["hu"],
     "feeds": [
       {
-        "url": "http://www.atv.hu/all",
+        "url": "https://www.atv.hu/feed/",
         "language": "hu"
       }
     ]
@@ -356,12 +341,7 @@
     "url": "http://magyaridok.hu",
     "country": "hu",
     "languages": ["hu"],
-    "feeds": [
-      {
-        "url": "https://magyaridok.hu/feed/",
-        "language": "hu"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "vs.hu",
@@ -369,12 +349,7 @@
     "url": "http://vs.hu",
     "country": "hu",
     "languages": ["hu"],
-    "feeds": [
-      {
-        "url": "https://vs.hu/feed",
-        "language": "hu"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "hetek",
@@ -384,7 +359,7 @@
     "languages": ["hu"],
     "feeds": [
       {
-        "url": "http://www.hetek.hu/friss",
+        "url": "https://www.hetek.hu/feed.xml",
         "language": "hu"
       }
     ]
@@ -423,7 +398,7 @@
     "languages": ["hu"],
     "feeds": [
       {
-        "url": "http://www.nemzetisport.hu/rss/mindencsatorna",
+        "url": "https://www.nemzetisport.hu/publicapi/hu/rss/nso/articles",
         "language": "hu"
       }
     ]
@@ -434,12 +409,7 @@
     "url": "http://nol.hu",
     "country": "hu",
     "languages": ["hu"],
-    "feeds": [
-      {
-        "url": "http://nol.hu/rss/mindencsatorna",
-        "language": "hu"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "vg",
@@ -495,13 +465,13 @@
   },
   {
     "id": "naplo",
-    "name": "Napló.hu",
-    "url": "http://naplo.hu",
+    "name": "Haon.hu",
+    "url": "https://www.haon.hu/",
     "country": "hu",
     "languages": ["hu"],
     "feeds": [
       {
-        "url": "https://www.naplo.hu/feed",
+        "url": "https://www.haon.hu/feed/",
         "language": "hu"
       }
     ]
