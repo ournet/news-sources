@@ -11,10 +11,6 @@
         "language": "cs"
       },
       {
-        "url": "https://sip.denik.cz/rss/vse.html",
-        "language": "cs"
-      },
-      {
         "url": "https://ceskobudejovicky.denik.cz/rss/zpravy_region.html",
         "language": "cs"
       }
@@ -80,7 +76,7 @@
     "languages": ["cs"],
     "feeds": [
       {
-        "url": "https://www.tyden.cz/rss/rss.php",
+        "url": "https://www.tyden.cz/rss",
         "language": "cs"
       }
     ]
@@ -104,12 +100,7 @@
     "url": "http://rozhlas.cz",
     "country": "cz",
     "languages": ["cs"],
-    "feeds": [
-      {
-        "url": "http://www.rozhlas.cz/export/portal/",
-        "language": "cs"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "ceskenoviny",
@@ -207,12 +198,7 @@
     "url": "http://literarky.cz",
     "country": "cz",
     "languages": ["cs"],
-    "feeds": [
-      {
-        "url": "http://literarky.cz/index.php?format=feed&type=rss",
-        "language": "cs"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "tn.nova",
@@ -222,7 +208,7 @@
     "languages": ["cs"],
     "feeds": [
       {
-        "url": "http://rss.tn.nova.cz/zpravy/",
+        "url": "https://tn.nova.cz/rss",
         "language": "cs"
       }
     ]
@@ -259,12 +245,7 @@
     "url": "http://halonoviny.cz",
     "country": "cz",
     "languages": ["cs"],
-    "feeds": [
-      {
-        "url": "http://www.halonoviny.cz/articles/newsfeed.rss",
-        "language": "cs"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "eurozpravy",
@@ -287,7 +268,7 @@
     "languages": ["cs"],
     "feeds": [
       {
-        "url": "https://www.iprima.cz/rss/",
+        "url": "https://cnn.iprima.cz/rss",
         "language": "cs"
       }
     ]
@@ -378,7 +359,7 @@
     "languages": ["cs"],
     "feeds": [
       {
-        "url": "https://ac24.cz/uvod?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_6LN4ieZ8eFrT&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
+        "url": "https://www.ac24.cz/feed/",
         "language": "cs"
       }
     ]
@@ -417,7 +398,7 @@
     "languages": ["cs"],
     "feeds": [
       {
-        "url": "https://www.euro.cz/rss",
+        "url": "https://www.euro.cz/rss/clanky/",
         "language": "cs"
       }
     ]
@@ -469,7 +450,72 @@
     "languages": ["cs"],
     "feeds": [
       {
-        "url": "https://roklen24.cz/rss/s/homepage",
+        "url": "https://roklen24.cz/feed/",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "seznamzpravy",
+    "name": "SeznamZpravy",
+    "url": "https://www.seznamzpravy.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.seznamzpravy.cz/rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "respekt",
+    "name": "Respekt",
+    "url": "https://www.respekt.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.respekt.cz/api/rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "forum24",
+    "name": "Forum24",
+    "url": "https://www.forum24.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.forum24.cz/feed",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "info.cz",
+    "name": "Info.cz",
+    "url": "https://www.info.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://www.info.cz/rss",
+        "language": "cs"
+      }
+    ]
+  },
+  {
+    "id": "denikreferendum",
+    "name": "DenikReferendum",
+    "url": "https://denikreferendum.cz/",
+    "country": "cz",
+    "languages": ["cs"],
+    "feeds": [
+      {
+        "url": "https://denikreferendum.cz/rss.xml",
         "language": "cs"
       }
     ]

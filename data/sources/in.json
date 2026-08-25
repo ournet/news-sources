@@ -11,7 +11,7 @@
         "language": "en"
       },
       {
-        "url": "https://www.hindustantimes.com/feeds/rss/india/rssfeed.xml",
+        "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
         "language": "en"
       },
       {
@@ -121,10 +121,6 @@
         "language": "en"
       },
       {
-        "url": "https://www.indiatoday.in/rss/1206584",
-        "language": "en"
-      },
-      {
         "url": "https://www.indiatoday.in/rss/1206550",
         "language": "en"
       },
@@ -176,35 +172,35 @@
     "languages": ["en"],
     "feeds": [
       {
-        "url": "https://www.firstpost.com/rss/world.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/world.xml",
         "language": "en"
       },
       {
-        "url": "https://www.firstpost.com/rss/india.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml",
         "language": "en"
       },
       {
-        "url": "https://www.firstpost.com/rss/politics.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/politics.xml",
         "language": "en"
       },
       {
-        "url": "https://www.firstpost.com/rss/entertainment.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/entertainment.xml",
         "language": "en"
       },
       {
-        "url": "https://www.firstpost.com/rss/opinion.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/opinion.xml",
         "language": "en"
       },
       {
-        "url": "https://www.firstpost.com/rss/business.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/business.xml",
         "language": "en"
       },
       {
-        "url": "https://www.firstpost.com/rss/health.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/health.xml",
         "language": "en"
       },
       {
-        "url": "https://www.firstpost.com/rss/tech.xml",
+        "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/tech.xml",
         "language": "en"
       }
     ]
@@ -332,12 +328,7 @@
     "url": "http://www.outlookindia.com",
     "country": "in",
     "languages": ["en"],
-    "feeds": [
-      {
-        "url": "https://www.outlookindia.com/rss/",
-        "language": "en"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "tribuneindia.com",
@@ -347,19 +338,19 @@
     "languages": ["en"],
     "feeds": [
       {
-        "url": "https://www.tribuneindia.com/rss/feed?catId=0",
+        "url": "https://publish.tribuneindia.com/newscategory/top-headlines/feed/",
         "language": "en"
       },
       {
-        "url": "https://www.tribuneindia.com/rss/feed?catId=42",
+        "url": "https://publish.tribuneindia.com/newscategory/world/feed/",
         "language": "en"
       },
       {
-        "url": "https://www.tribuneindia.com/rss/feed?catId=57",
+        "url": "https://publish.tribuneindia.com/newscategory/business/feed/",
         "language": "en"
       },
       {
-        "url": "https://www.tribuneindia.com/rss/feed?catId=19",
+        "url": "https://publish.tribuneindia.com/newscategory/india/feed/",
         "language": "en"
       }
     ]
@@ -367,7 +358,7 @@
   {
     "id": "abplive.com",
     "name": "abplive",
-    "url": "https://www.tribuneindia.com",
+    "url": "https://www.abplive.com",
     "country": "in",
     "languages": ["en"],
     "feeds": [
@@ -385,6 +376,45 @@
       },
       {
         "url": "https://news.abplive.com/business/feed",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "id": "economictimes",
+    "name": "EconomicTimes",
+    "url": "https://economictimes.indiatimes.com/",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "id": "livemint",
+    "name": "LiveMint",
+    "url": "https://www.livemint.com/",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://www.livemint.com/rss/news",
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "id": "deccanherald",
+    "name": "DeccanHerald",
+    "url": "https://www.deccanherald.com/",
+    "country": "in",
+    "languages": ["en"],
+    "feeds": [
+      {
+        "url": "https://www.deccanherald.com/stories.rss",
         "language": "en"
       }
     ]

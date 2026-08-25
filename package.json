@@ -1,6 +1,6 @@
 {
   "name": "news-sources",
-  "version": "0.1.13",
+  "version": "0.2.0",
   "description": "json news-sources",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
@@ -15,7 +15,9 @@
     "prepublishOnly": "npm run tsc && npm run clean-code",
     "clean": "rimraf ./lib && rimraf ./types",
     "clean-code": "rimraf ./lib/**/*.test.js && rimraf ./types/**/*.test.d.ts && rimraf ./types/scripts",
-    "validate": "node ./lib/scripts/validate.js"
+    "validate": "node ./lib/scripts/validate.js",
+    "check-feeds": "node ./lib/scripts/check-feeds.js",
+    "discover-feeds": "node ./lib/scripts/discover-feeds.js"
   },
   "engines": {
     "node": ">=8.0.0"

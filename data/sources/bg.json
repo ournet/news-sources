@@ -70,12 +70,7 @@
     "url": "http://trud.bg",
     "country": "bg",
     "languages": ["bg"],
-    "feeds": [
-      {
-        "url": "https://trud.bg/feed/",
-        "language": "bg"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "24chasa",
@@ -85,7 +80,7 @@
     "languages": ["bg"],
     "feeds": [
       {
-        "url": "https://www.24chasa.bg/Rss",
+        "url": "https://www.24chasa.bg/rss",
         "language": "bg"
       }
     ]
@@ -111,7 +106,7 @@
     "languages": ["bg"],
     "feeds": [
       {
-        "url": "https://www.vesti.bg/rss.php",
+        "url": "https://www.vesti.bg/rss",
         "language": "bg"
       }
     ]
@@ -176,7 +171,7 @@
     "languages": ["bg"],
     "feeds": [
       {
-        "url": "http://blife.bg/rss.php",
+        "url": "https://blife.bg/feed/",
         "language": "bg"
       }
     ]
@@ -187,12 +182,7 @@
     "url": "http://bsport.bg",
     "country": "bg",
     "languages": ["bg"],
-    "feeds": [
-      {
-        "url": "http://bsport.bg/mediarss.php",
-        "language": "bg"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "actualno.com",
@@ -226,12 +216,7 @@
     "url": "http://aspekti.info",
     "country": "bg",
     "languages": ["bg"],
-    "feeds": [
-      {
-        "url": "http://www.aspekti.info/rss/bg/news/",
-        "language": "bg"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "frognews",
@@ -366,7 +351,7 @@
     "languages": ["bg"],
     "feeds": [
       {
-        "url": "https://dnes.dir.bg/support/cat_rss.php?section=all",
+        "url": "https://dnes.dir.bg/feeds/rss",
         "language": "bg"
       }
     ]
@@ -377,12 +362,7 @@
     "url": "http://profit.bg",
     "country": "bg",
     "languages": ["bg"],
-    "feeds": [
-      {
-        "url": "http://profit.bg/rss/profitrss/rss_news_category_74.xml",
-        "language": "bg"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "sportal",
@@ -392,7 +372,7 @@
     "languages": ["bg"],
     "feeds": [
       {
-        "url": "https://www.sportal.bg/uploads/rss_category_0.xml",
+        "url": "https://sportal.bg/rss",
         "language": "bg"
       }
     ]
@@ -403,12 +383,7 @@
     "url": "http://hotnews.bg",
     "country": "bg",
     "languages": ["bg"],
-    "feeds": [
-      {
-        "url": "http://hotnews.bg/rss.php",
-        "language": "bg"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "livenews",
@@ -416,12 +391,7 @@
     "url": "http://livenews.bg",
     "country": "bg",
     "languages": ["bg"],
-    "feeds": [
-      {
-        "url": "http://www.livenews.bg/index.php?format=feed&type=rss",
-        "language": "bg"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "webcafe",
@@ -429,12 +399,7 @@
     "url": "http://webcafe.bg",
     "country": "bg",
     "languages": ["bg"],
-    "feeds": [
-      {
-        "url": "http://feeds.feedburner.com/webcafebg",
-        "language": "bg"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "dartsnews",
@@ -457,7 +422,7 @@
     "languages": ["bg"],
     "feeds": [
       {
-        "url": "http://www.novsport.com/rss_news.xml",
+        "url": "https://www.novsport.com/feed/last",
         "language": "bg"
       }
     ]
@@ -468,13 +433,43 @@
     "url": "http://tialoto.bg",
     "country": "bg",
     "languages": ["bg"],
+    "feeds": []
+  },
+  {
+    "id": "capital.bg",
+    "name": "Capital",
+    "url": "https://www.capital.bg/",
+    "country": "bg",
+    "languages": ["bg"],
     "feeds": [
       {
-        "url": "https://www.tialoto.bg/rss/show/zvezdi/",
+        "url": "https://www.capital.bg/rss/",
         "language": "bg"
-      },
+      }
+    ]
+  },
+  {
+    "id": "fakti.bg",
+    "name": "Fakti",
+    "url": "https://fakti.bg/",
+    "country": "bg",
+    "languages": ["bg"],
+    "feeds": [
       {
-        "url": "https://www.tialoto.bg/rss/show/zdrave-i-tonus/",
+        "url": "https://fakti.bg/feed",
+        "language": "bg"
+      }
+    ]
+  },
+  {
+    "id": "segabg.com",
+    "name": "Sega",
+    "url": "https://www.segabg.com/",
+    "country": "bg",
+    "languages": ["bg"],
+    "feeds": [
+      {
+        "url": "https://www.segabg.com/rss",
         "language": "bg"
       }
     ]

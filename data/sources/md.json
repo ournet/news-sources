@@ -46,11 +46,11 @@
     "languages": ["ro"],
     "feeds": [
       {
-        "url": "https://news.click.md/rss-proxy/tv8.md.xml",
+        "url": "https://tv8.md/ro/feed/",
         "language": "ro"
       },
       {
-        "url": "https://news.click.md/rss-proxy/tv8.md-ru.xml",
+        "url": "https://tv8.md/ru/feed/",
         "language": "ru"
       }
     ]
@@ -61,12 +61,7 @@
     "url": "http://abcnews.md/",
     "country": "md",
     "languages": ["ro"],
-    "feeds": [
-      {
-        "url": "https://abcnews.md/feed/",
-        "language": "ro"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "canal2",
@@ -82,16 +77,7 @@
     "url": "http://www.canal3.md/",
     "country": "md",
     "languages": ["ro"],
-    "feeds": [
-      {
-        "url": "https://www.canal3.md/rss/",
-        "language": "ro"
-      },
-      {
-        "url": "https://www.canal3.md/ru/rss/",
-        "language": "ru"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "curentul",
@@ -114,16 +100,8 @@
     "languages": ["ro", "ru", "en"],
     "feeds": [
       {
-        "url": "https://deschide.md/ro/feed/",
+        "url": "https://krjjgzewhghcdzckcjmb.supabase.co/functions/v1/rss",
         "language": "ro"
-      },
-      {
-        "url": "https://deschide.md/ru/feed/",
-        "language": "ru"
-      },
-      {
-        "url": "https://deschide.md/en/feed/",
-        "language": "en"
       }
     ]
   },
@@ -174,15 +152,15 @@
     "languages": ["ro", "ru", "en"],
     "feeds": [
       {
-        "url": "https://gov.md/ro/press/feed",
+        "url": "https://gov.md/ro/rss.xml",
         "language": "ro"
       },
       {
-        "url": "https://gov.md/ru/press/feed",
+        "url": "https://gov.md/ru/rss.xml",
         "language": "ru"
       },
       {
-        "url": "https://gov.md/en/press/feed",
+        "url": "https://gov.md/en/rss.xml",
         "language": "en"
       }
     ]
@@ -208,15 +186,15 @@
     "languages": ["ro", "ru", "en"],
     "feeds": [
       {
-        "url": "https://www.ipn.md/ro/feed",
+        "url": "https://ipn.md/feed/",
         "language": "ro"
       },
       {
-        "url": "https://www.ipn.md/ru/feed",
+        "url": "https://ipn.md/ru/feed/",
         "language": "ru"
       },
       {
-        "url": "https://www.ipn.md/en/feed",
+        "url": "https://ipn.md/en/feed/",
         "language": "en"
       }
     ]
@@ -233,7 +211,7 @@
         "language": "ro"
       },
       {
-        "url": "https://news.click.md/rss-proxy/jurnal.md-ru.xml",
+        "url": "https://www.jurnal.md/ru/rss/all",
         "language": "ru"
       }
     ]
@@ -337,12 +315,7 @@
     "url": "https://primelestiri.md/",
     "country": "md",
     "languages": ["ro", "ru"],
-    "feeds": [
-      {
-        "url": "https://primelestiri.md/feed/",
-        "language": "ro"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "publika",
@@ -350,20 +323,7 @@
     "url": "http://www.publika.md/",
     "country": "md",
     "languages": ["ro", "ru", "en"],
-    "feeds": [
-      {
-        "url": "https://rss.publika.md/stiri.xml",
-        "language": "ro"
-      },
-      {
-        "url": "https://rssru.publika.md/stiri.xml",
-        "language": "ru"
-      },
-      {
-        "url": "https://rssen.publika.md/stiri.xml",
-        "language": "en"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "radiochisinau",
@@ -392,7 +352,7 @@
     ]
   },
   {
-    "id": "Rupor.md",
+    "id": "rupor.md",
     "name": "Rupor.md",
     "url": "http://www.rupor.md/",
     "country": "md",
@@ -410,12 +370,7 @@
     "url": "http://shok.md/",
     "country": "md",
     "languages": ["ro"],
-    "feeds": [
-      {
-        "url": "https://shok.md/feed/",
-        "language": "ro"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "sputnik",
@@ -500,7 +455,7 @@
         "language": "ro"
       },
       {
-        "url": "https://news.click.md/rss-proxy/zdg.md-ru.xml",
+        "url": "https://www.zdg.md/ru/feed/",
         "language": "ru"
       }
     ]
@@ -524,12 +479,7 @@
     "url": "http://aif.md/",
     "country": "md",
     "languages": ["ru"],
-    "feeds": [
-      {
-        "url": "https://aif.md/feed/",
-        "language": "ru"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "esp",
@@ -579,12 +529,7 @@
     "url": "http://www.vedomosti.md/",
     "country": "md",
     "languages": ["ru"],
-    "feeds": [
-      {
-        "url": "http://www.vedomosti.md/yandex_rss",
-        "language": "ru"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "vesti",
@@ -608,12 +553,7 @@
     "url": "http://www.moldkorr.com/",
     "country": "md",
     "languages": ["ru"],
-    "feeds": [
-      {
-        "url": "https://www.moldkorr.com/feeds/posts/default?alt=rss",
-        "language": "ru"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "nokta.md",
@@ -681,10 +621,6 @@
     "country": "md",
     "languages": ["ru"],
     "feeds": [
-      {
-        "url": "https://ava.md/feed/",
-        "language": "ru"
-      },
       {
         "url": "https://news.click.md/rss-proxy/ava.md.xml",
         "language": "ru"
@@ -877,12 +813,7 @@
     "url": "https://unica.md",
     "country": "md",
     "languages": ["ro"],
-    "feeds": [
-      {
-        "url": "https://unica.md/feed/",
-        "language": "ro"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "telegraph-md",
@@ -906,6 +837,84 @@
     "feeds": [
       {
         "url": "https://unghiul.com/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "diez",
+    "name": "Diez.md",
+    "url": "https://diez.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://diez.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "moldova1",
+    "name": "Moldova 1",
+    "url": "https://moldova1.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://moldova1.md/rss",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "anticoruptie",
+    "name": "Anticoruptie.md",
+    "url": "https://anticoruptie.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://anticoruptie.md/feed",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "bani-md",
+    "name": "Bani.md",
+    "url": "https://bani.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://bani.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "nordnews",
+    "name": "NordNews.md",
+    "url": "https://nordnews.md/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://nordnews.md/feed/",
+        "language": "ro"
+      }
+    ]
+  },
+  {
+    "id": "sinteza",
+    "name": "Sinteza",
+    "url": "https://sinteza.org/",
+    "country": "md",
+    "languages": ["ro"],
+    "feeds": [
+      {
+        "url": "https://sinteza.org/feed/",
         "language": "ro"
       }
     ]
