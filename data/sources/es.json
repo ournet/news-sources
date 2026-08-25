@@ -72,20 +72,7 @@
     "languages": ["es"],
     "feeds": [
       {
-        "url": "https://es.euronews.com/rss?format=mrss&level=theme&name=news",
-        "language": "es"
-      }
-    ]
-  },
-  {
-    "id": "lavanguardia.com",
-    "name": "LaVanguardia",
-    "url": "https://www.lavanguardia.com/",
-    "country": "es",
-    "languages": ["es"],
-    "feeds": [
-      {
-        "url": "https://www.lavanguardia.com/rss/home.xml",
+        "url": "https://es.euronews.com/rss",
         "language": "es"
       }
     ]
@@ -183,7 +170,7 @@
     "languages": ["es"],
     "feeds": [
       {
-        "url": "https://www.epe.es/es/rss/rss_portada.xml",
+        "url": "https://www.epe.es/es/rss/espana/rss.xml",
         "language": "es"
       },
       {
@@ -304,7 +291,7 @@
     "languages": ["es"],
     "feeds": [
       {
-        "url": "https://www.mundodeportivo.com/urbantecno/feed",
+        "url": "https://www.mundodeportivo.com/feed/rss/home/",
         "language": "es"
       }
     ]
@@ -315,16 +302,7 @@
     "url": "https://www.rtve.es/",
     "country": "es",
     "languages": ["es"],
-    "feeds": [
-      {
-        "url": "https://api2.rtve.es/rss/temas_noticias.xml",
-        "language": "es"
-      },
-      {
-        "url": "http://api2.rtve.es/rss/temas_espana.xml",
-        "language": "es"
-      }
-    ]
+    "feeds": []
   },
   {
     "id": "elmundo.es",
